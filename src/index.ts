@@ -9,6 +9,7 @@ const main = async () => {
 
   await Browser.launch();
 
+  // Get the competition list
   const competitionListService = new CompetitionListService();
   const list = await competitionListService.fetch();
 
