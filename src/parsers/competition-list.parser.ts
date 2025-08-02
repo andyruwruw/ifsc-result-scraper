@@ -37,8 +37,6 @@ export class CompetitionListParser extends Parser<string[]> {
         form,
       );
 
-      console.log(urls);
-
       if (urls.length > 0) {
         competitions.push(...urls);
       }
