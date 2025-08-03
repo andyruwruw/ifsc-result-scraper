@@ -2,6 +2,7 @@
 import { CompetitionListService } from './services/competition-list.service';
 import { CompetitionService } from './services/competition.service';
 import { Browser } from './utils/browser';
+import wait from './utils/wait';
 /**
  * Main entry point for the data reader.
  */
@@ -15,11 +16,14 @@ const main = async () => {
   const list = await competitionListService.fetch();
 
   for (let i = 0; i < 1; i += 1) {
-    console.log(`Competition ${i + 1}: ${list[i]}`);
+    console.log(`Competition #${i + 1}: ID ${list[i].split('/').pop()}`);
 
     // Get the competition data
     const competitionService = new CompetitionService();
     const competitionData = await competitionService.fetch(list[i]);
+
+    // This doesn't need to be fast right?
+    wait(1000 + Math.random() * 1000);
   }
 
   await Browser.close();
