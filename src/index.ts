@@ -1,5 +1,6 @@
 // Local Imports
 import { CompetitionListService } from './services/competition-list.service';
+import { CompetitionService } from './services/competition.service';
 import { Browser } from './utils/browser';
 /**
  * Main entry point for the data reader.
@@ -12,6 +13,14 @@ const main = async () => {
   // Get the competition list
   const competitionListService = new CompetitionListService();
   const list = await competitionListService.fetch();
+
+  for (let i = 0; i < 1; i += 1) {
+    console.log(`Competition ${i + 1}: ${list[i]}`);
+
+    // Get the competition data
+    const competitionService = new CompetitionService();
+    const competitionData = await competitionService.fetch(list[i]);
+  }
 
   await Browser.close();
 

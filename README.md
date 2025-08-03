@@ -18,7 +18,7 @@ $ npm run start
 
 # Just Using the API
 
-Keep in mind the parameters for each endpoint come form the endpoint prior.
+Keep in mind the parameters for each endpoint come from the endpoint prior.
 
 If you want to get a list of all competitions from a year:
 

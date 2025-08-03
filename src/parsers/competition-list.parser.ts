@@ -40,8 +40,6 @@ export class CompetitionListParser extends Parser<string[]> {
       if (urls.length > 0) {
         competitions.push(...urls);
       }
-
-      console.log(competitions);
     }
 
     return competitions;
