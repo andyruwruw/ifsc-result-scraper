@@ -1,0 +1,94 @@
+{
+  "season": "2025",
+  "season_id": 37,
+  "cups": [
+    {
+      "season_league": 443,
+      "cup_id": 103,
+      "cup": "IFSC Climbing World Cup 2025",
+      "disciplines": [
+        {
+          "discipline": "boulder",
+          "discipline_kind_id": 2,
+          "count": 6
+        },
+        {
+          "discipline": "lead",
+          "discipline_kind_id": 0,
+          "count": 6
+        },
+        {
+          "discipline": "speed",
+          "discipline_kind_id": 1,
+          "count": 6
+        }
+      ]
+    },
+    {
+      "season_league": 448,
+      "cup_id": 105,
+      "cup": "IFSC-Europe Climbing European Cup Speed 2025",
+      "disciplines": [
+        {
+          "discipline_kind": "",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "season_league": 448,
+      "cup_id": 106,
+      "cup": "IFSC-Europe Climbing European Cup Lead 2025",
+      "disciplines": [
+        {
+          "discipline_kind": "",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "season_league": 448,
+      "cup_id": 107,
+      "cup": "IFSC-Europe Climbing European Cup Boulder 2025",
+      "disciplines": [
+        {
+          "discipline_kind": "",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "season_league": 449,
+      "cup_id": 108,
+      "cup": "IFSC-Europe Climbing European Youth Cup Speed 2025",
+      "disciplines": [
+        {
+          "discipline_kind": "",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "season_league": 449,
+      "cup_id": 109,
+      "cup": "IFSC-Europe Climbing European Youth Cup Lead 2025",
+      "disciplines": [
+        {
+          "discipline_kind": "",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "season_league": 449,
+      "cup_id": 110,
+      "cup": "IFSC-Europe Climbing European Youth Cup Boulder 2025",
+      "disciplines": [
+        {
+          "discipline_kind": "",
+          "count": 4
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2110 @@
+[
+  {
+    "athlete_id": 3161,
+    "firstname": "Valentina",
+    "lastname": "AGUADO",
+    "name": "AGUADO Valentina",
+    "gender": 1,
+    "federation": "FASA",
+    "federation_id": 41,
+    "country": "ARG",
+    "d_cats": [
+      {
+        "id": 7,
+        "name": "BOULDER Women",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 13853,
+    "firstname": "Dylan",
+    "lastname": "PARKS",
+    "name": "PARKS Dylan",
+    "gender": 0,
+    "federation": "SCA",
+    "federation_id": 28,
+    "country": "AUS",
+    "d_cats": [
+      {
+        "id": 3,
+        "name": "BOULDER Men",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 2501,
+    "firstname": "Oceania",
+    "lastname": "MACKENZIE",
+    "name": "MACKENZIE Oceania",
+    "gender": 1,
+    "federation": "SCA",
+    "federation_id": 28,
+    "country": "AUS",
+    "d_cats": [
+      {
+        "id": 7,
+        "name": "BOULDER Women",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 1285,
+    "firstname": "Lea",
+    "lastname": "KEMPF",
+    "name": "KEMPF Lea",
+    "gender": 1,
+    "federation": "KVÖ",
+    "federation_id": 16,
+    "country": "AUT",
+    "d_cats": [
+      {
+        "id": 7,
+        "name": "BOULDER Women",
+        "status": "not attending"
+      }
+    ]
+  },
+  {
+    "athlete_id": 1282,
+    "firstname": "Andreas",
+    "lastname": "HOFHERR",
+    "name": "HOFHERR Andreas",
+    "gender": 0,
+    "federation": "KVÖ",
+    "federation_id": 16,
+    "country": "AUT",
+    "d_cats": [
+      {
+        "id": 3,
+        "name": "BOULDER Men",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 1245,
+    "firstname": "Jan-Luca",
+    "lastname": "POSCH",
+    "name": "POSCH Jan-Luca",
+    "gender": 0,
+    "federation": "KVÖ",
+    "federation_id": 16,
+    "country": "AUT",
+    "d_cats": [
+      {
+        "id": 3,
+        "name": "BOULDER Men",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 1240,
+    "firstname": "Franziska",
+    "lastname": "STERRER",
+    "name": "STERRER Franziska",
+    "gender": 1,
+    "federation": "KVÖ",
+    "federation_id": 16,
+    "country": "AUT",
+    "d_cats": [
+      {
+        "id": 7,
+        "name": "BOULDER Women",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 1270,
+    "firstname": "Sandra",
+    "lastname": "LETTNER",
+    "name": "LETTNER Sandra",
+    "gender": 1,
+    "federation": "KVÖ",
+    "federation_id": 16,
+    "country": "AUT",
+    "d_cats": [
+      {
+        "id": 7,
+        "name": "BOULDER Women",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 11580,
+    "firstname": "Julian",
+    "lastname": "WIMMER",
+    "name": "WIMMER Julian",
+    "gender": 0,
+    "federation": "KVÖ",
+    "federation_id": 16,
+    "country": "AUT",
+    "d_cats": [
+      {
+        "id": 3,
+        "name": "BOULDER Men",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 12313,
+    "firstname": "Raffael",
+    "lastname": "GRUBER",
+    "name": "GRUBER Raffael",
+    "gender": 0,
+    "federation": "KVÖ",
+    "federation_id": 16,
+    "country": "AUT",
+    "d_cats": [
+      {
+        "id": 3,
+        "name": "BOULDER Men",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 13398,
+    "firstname": "Flora",
+    "lastname": "OBLASSER",
+    "name": "OBLASSER Flora",
+    "gender": 1,
+    "federation": "KVÖ",
+    "federation_id": 16,
+    "country": "AUT",
+    "d_cats": [
+      {
+        "id": 7,
+        "name": "BOULDER Women",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 12382,
+    "firstname": "Timo",
+    "lastname": "UZNIK",
+    "name": "UZNIK Timo",
+    "gender": 0,
+    "federation": "KVÖ",
+    "federation_id": 16,
+    "country": "AUT",
+    "d_cats": [
+      {
+        "id": 3,
+        "name": "BOULDER Men",
+        "status": "not attending"
+      }
+    ]
+  },
+  {
+    "athlete_id": 373,
+    "firstname": "Hannes",
+    "lastname": "VAN DUYSEN",
+    "name": "VAN DUYSEN Hannes",
+    "gender": 0,
+    "federation": "CMBEL",
+    "federation_id": 9,
+    "country": "BEL",
+    "d_cats": [
+      {
+        "id": 3,
+        "name": "BOULDER Men",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 316,
+    "firstname": "Chloe",
+    "lastname": "CAULIER",
+    "name": "CAULIER Chloe",
+    "gender": 1,
+    "federation": "CMBEL",
+    "federation_id": 9,
+    "country": "BEL",
+    "d_cats": [
+      {
+        "id": 7,
+        "name": "BOULDER Women",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 320,
+    "firstname": "Nicolas",
+    "lastname": "COLLIN",
+    "name": "COLLIN Nicolas",
+    "gender": 0,
+    "federation": "CMBEL",
+    "federation_id": 9,
+    "country": "BEL",
+    "d_cats": [
+      {
+        "id": 3,
+        "name": "BOULDER Men",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 12903,
+    "firstname": "Rodrigo",
+    "lastname": "IASI HANADA",
+    "name": "IASI HANADA Rodrigo",
+    "gender": 0,
+    "federation": "CBESC",
+    "federation_id": 40,
+    "country": "BRA",
+    "d_cats": [
+      {
+        "id": 3,
+        "name": "BOULDER Men",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 12901,
+    "firstname": "Laura",
+    "lastname": "FARHAT DE ARAUJO FRAGA TIMO",
+    "name": "FARHAT DE ARAUJO FRAGA TIMO Laura",
+    "gender": 1,
+    "federation": "CBESC",
+    "federation_id": 40,
+    "country": "BRA",
+    "d_cats": [
+      {
+        "id": 7,
+        "name": "BOULDER Women",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 12329,
+    "firstname": "Nikolay",
+    "lastname": "RUSEV",
+    "name": "RUSEV Nikolay",
+    "gender": 0,
+    "federation": "BCMF",
+    "federation_id": 26,
+    "country": "BUL",
+    "d_cats": [
+      {
+        "id": 3,
+        "name": "BOULDER Men",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 11500,
+    "firstname": "Slav",
+    "lastname": "KIROV",
+    "name": "KIROV Slav",
+    "gender": 0,
+    "federation": "BCMF",
+    "federation_id": 26,
+    "country": "BUL",
+    "d_cats": [
+      {
+        "id": 3,
+        "name": "BOULDER Men",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 14842,
+    "firstname": "Matthew",
+    "lastname": "RODRIGUEZ",
+    "name": "RODRIGUEZ Matthew",
+    "gender": 0,
+    "federation": "CEC",
+    "federation_id": 19,
+    "country": "CAN",
+    "d_cats": [
+      {
+        "id": 3,
+        "name": "BOULDER Men",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 1682,
+    "firstname": "Hugo",
+    "lastname": "DORVAL",
+    "name": "DORVAL Hugo",
+    "gender": 0,
+    "federation": "CEC",
+    "federation_id": 19,
+    "country": "CAN",
+    "d_cats": [
+      {
+        "id": 3,
+        "name": "BOULDER Men",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 13945,
+    "firstname": "Anna",
+    "lastname": "KELLEY",
+    "name": "KELLEY Anna",
+    "gender": 1,
+    "federation": "CEC",
+    "federation_id": 19,
+    "country": "CAN",
+    "d_cats": [
+      {
+        "id": 7,
+        "name": "BOULDER Women",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 13936,
+    "firstname": "Jacqueline",
+    "lastname": "HO",
+    "name": "HO Jacqueline",
+    "gender": 1,
+    "federation": "CEC",
+    "federation_id": 19,
+    "country": "CAN",
+    "d_cats": [
+      {
+        "id": 7,
+        "name": "BOULDER Women",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 1629,
+    "firstname": "Madison",
+    "lastname": "RICHARDSON",
+    "name": "RICHARDSON Madison",
+    "gender": 1,
+    "federation": "CEC",
+    "federation_id": 19,
+    "country": "CAN",
+    "d_cats": [
+      {
+        "id": 7,
+        "name": "BOULDER Women",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 11847,
+    "firstname": "Oscar",
+    "lastname": "BAUDRAND",
+    "name": "BAUDRAND Oscar",
+    "gender": 0,
+    "federation": "CEC",
+    "federation_id": 19,
+    "country": "CAN",
+    "d_cats": [
+      {
+        "id": 3,
+        "name": "BOULDER Men",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 11862,
+    "firstname": "Joaquin",
+    "lastname": "URRUTIA",
+    "name": "URRUTIA Joaquin",
+    "gender": 0,
+    "federation": "FEACH",
+    "federation_id": 58,
+    "country": "CHI",
+    "d_cats": [
+      {
+        "id": 3,
+        "name": "BOULDER Men",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 3916,
+    "firstname": "Benjamin",
+    "lastname": "VARGAS",
+    "name": "VARGAS Benjamin",
+    "gender": 0,
+    "federation": "FEACH",
+    "federation_id": 58,
+    "country": "CHI",
+    "d_cats": [
+      {
+        "id": 3,
+        "name": "BOULDER Men",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 16942,
+    "firstname": "Tomas",
+    "lastname": "CASAS",
+    "name": "CASAS Tomas",
+    "gender": 0,
+    "federation": "CRCF",
+    "federation_id": 109,
+    "country": "CRC",
+    "d_cats": [
+      {
+        "id": 3,
+        "name": "BOULDER Men",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 16938,
+    "firstname": "Ariel",
+    "lastname": "GONZALEZ",
+    "name": "GONZALEZ Ariel",
+    "gender": 0,
+    "federation": "CRCF",
+    "federation_id": 109,
+    "country": "CRC",
+    "d_cats": [
+      {
+        "id": 3,
+        "name": "BOULDER Men",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 13902,
+    "firstname": "Iris",
+    "lastname": "HEIKKINEN",
+    "name": "HEIKKINEN Iris",
+    "gender": 1,
+    "federation": "FCA",
+    "federation_id": 35,
+    "country": "FIN",
+    "d_cats": [
+      {
+        "id": 7,
+        "name": "BOULDER Women",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 11462,
+    "firstname": "Oriane",
+    "lastname": "BERTONE",
+    "name": "BERTONE Oriane",
+    "gender": 1,
+    "federation": "FFME",
+    "federation_id": 10,
+    "country": "FRA",
+    "d_cats": [
+      {
+        "id": 7,
+        "name": "BOULDER Women",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 620,
+    "firstname": "Zélia",
+    "lastname": "AVEZOU",
+    "name": "AVEZOU Zélia",
+    "gender": 1,
+    "federation": "FFME",
+    "federation_id": 10,
+    "country": "FRA",
+    "d_cats": [
+      {
+        "id": 7,
+        "name": "BOULDER Women",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 11675,
+    "firstname": "Mejdi",
+    "lastname": "SCHALCK",
+    "name": "SCHALCK Mejdi",
+    "gender": 0,
+    "federation": "FFME",
+    "federation_id": 10,
+    "country": "FRA",
+    "d_cats": [
+      {
+        "id": 3,
+        "name": "BOULDER Men",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 11653,
+    "firstname": "Agathe",
+    "lastname": "CALLIET",
+    "name": "CALLIET Agathe",
+    "gender": 1,
+    "federation": "FFME",
+    "federation_id": 10,
+    "country": "FRA",
+    "d_cats": [
+      {
+        "id": 7,
+        "name": "BOULDER Women",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 532,
+    "firstname": "Sam",
+    "lastname": "AVEZOU",
+    "name": "AVEZOU Sam",
+    "gender": 0,
+    "federation": "FFME",
+    "federation_id": 10,
+    "country": "FRA",
+    "d_cats": [
+      {
+        "id": 3,
+        "name": "BOULDER Men",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 11621,
+    "firstname": "Naïlé",
+    "lastname": "MEIGNAN",
+    "name": "MEIGNAN Naïlé",
+    "gender": 1,
+    "federation": "FFME",
+    "federation_id": 10,
+    "country": "FRA",
+    "d_cats": [
+      {
+        "id": 7,
+        "name": "BOULDER Women",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 12496,
+    "firstname": "Thomas",
+    "lastname": "LEMAGNER",
+    "name": "LEMAGNER Thomas",
+    "gender": 0,
+    "federation": "FFME",
+    "federation_id": 10,
+    "country": "FRA",
+    "d_cats": [
+      {
+        "id": 3,
+        "name": "BOULDER Men",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 574,
+    "firstname": "Leo",
+    "lastname": "FAVOT",
+    "name": "FAVOT leo",
+    "gender": 0,
+    "federation": "FFME",
+    "federation_id": 10,
+    "country": "FRA",
+    "d_cats": [
+      {
+        "id": 3,
+        "name": "BOULDER Men",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 518,
+    "firstname": "Adrien",
+    "lastname": "LEMAIRE",
+    "name": "LEMAIRE Adrien",
+    "gender": 0,
+    "federation": "FFME",
+    "federation_id": 10,
+    "country": "FRA",
+    "d_cats": [
+      {
+        "id": 3,
+        "name": "BOULDER Men",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 547,
+    "firstname": "Paul",
+    "lastname": "JENFT",
+    "name": "JENFT Paul",
+    "gender": 0,
+    "federation": "FFME",
+    "federation_id": 10,
+    "country": "FRA",
+    "d_cats": [
+      {
+        "id": 3,
+        "name": "BOULDER Men",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 739,
+    "firstname": "Zoe",
+    "lastname": "PEETERMANS",
+    "name": "PEETERMANS Zoe",
+    "gender": 1,
+    "federation": "BMC",
+    "federation_id": 11,
+    "country": "GBR",
+    "d_cats": [
+      {
+        "id": 7,
+        "name": "BOULDER Women",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 12239,
+    "firstname": "Dayan",
+    "lastname": "AKHTAR",
+    "name": "AKHTAR Dayan",
+    "gender": 0,
+    "federation": "BMC",
+    "federation_id": 11,
+    "country": "GBR",
+    "d_cats": [
+      {
+        "id": 3,
+        "name": "BOULDER Men",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 11502,
+    "firstname": "Jack",
+    "lastname": "MACDOUGALL",
+    "name": "MACDOUGALL Jack",
+    "gender": 0,
+    "federation": "BMC",
+    "federation_id": 11,
+    "country": "GBR",
+    "d_cats": [
+      {
+        "id": 3,
+        "name": "BOULDER Men",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 688,
+    "firstname": "Maximillian",
+    "lastname": "MILNE",
+    "name": "MILNE Maximillian",
+    "gender": 0,
+    "federation": "BMC",
+    "federation_id": 11,
+    "country": "GBR",
+    "d_cats": [
+      {
+        "id": 3,
+        "name": "BOULDER Men",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 12237,
+    "firstname": "Samuel",
+    "lastname": "BUTTERWORTH",
+    "name": "BUTTERWORTH Samuel",
+    "gender": 0,
+    "federation": "BMC",
+    "federation_id": 11,
+    "country": "GBR",
+    "d_cats": [
+      {
+        "id": 3,
+        "name": "BOULDER Men",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 696,
+    "firstname": "Hamish",
+    "lastname": "MCARTHUR",
+    "name": "MCARTHUR Hamish",
+    "gender": 0,
+    "federation": "BMC",
+    "federation_id": 11,
+    "country": "GBR",
+    "d_cats": [
+      {
+        "id": 3,
+        "name": "BOULDER Men",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 11490,
+    "firstname": "Toby",
+    "lastname": "ROBERTS",
+    "name": "ROBERTS Toby",
+    "gender": 0,
+    "federation": "BMC",
+    "federation_id": 11,
+    "country": "GBR",
+    "d_cats": [
+      {
+        "id": 3,
+        "name": "BOULDER Men",
+        "status": "not attending"
+      }
+    ]
+  },
+  {
+    "athlete_id": 13458,
+    "firstname": "Emma",
+    "lastname": "EDWARDS",
+    "name": "EDWARDS Emma",
+    "gender": 1,
+    "federation": "BMC",
+    "federation_id": 11,
+    "country": "GBR",
+    "d_cats": [
+      {
+        "id": 7,
+        "name": "BOULDER Women",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 12336,
+    "firstname": "Anna Maria",
+    "lastname": "APEL",
+    "name": "APEL Anna Maria",
+    "gender": 1,
+    "federation": "DAV",
+    "federation_id": 6,
+    "country": "GER",
+    "d_cats": [
+      {
+        "id": 7,
+        "name": "BOULDER Women",
+        "status": "not attending"
+      }
+    ]
+  },
+  {
+    "athlete_id": 4107,
+    "firstname": "Thorben Perry",
+    "lastname": "BLOEM",
+    "name": "BLOEM Thorben Perry",
+    "gender": 0,
+    "federation": "DAV",
+    "federation_id": 6,
+    "country": "GER",
+    "d_cats": [
+      {
+        "id": 3,
+        "name": "BOULDER Men",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 3121,
+    "firstname": "Florence",
+    "lastname": "GRÜNEWALD",
+    "name": "GRÜNEWALD Florence",
+    "gender": 1,
+    "federation": "DAV",
+    "federation_id": 6,
+    "country": "GER",
+    "d_cats": [
+      {
+        "id": 7,
+        "name": "BOULDER Women",
+        "status": "not attending"
+      }
+    ]
+  },
+  {
+    "athlete_id": 11569,
+    "firstname": "Tim",
+    "lastname": "WÜRTHNER",
+    "name": "WÜRTHNER Tim",
+    "gender": 0,
+    "federation": "DAV",
+    "federation_id": 6,
+    "country": "GER",
+    "d_cats": [
+      {
+        "id": 3,
+        "name": "BOULDER Men",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 11525,
+    "firstname": "Elias",
+    "lastname": "ARRIAGADA KRÜGER",
+    "name": "ARRIAGADA KRÜGER Elias",
+    "gender": 0,
+    "federation": "DAV",
+    "federation_id": 6,
+    "country": "GER",
+    "d_cats": [
+      {
+        "id": 3,
+        "name": "BOULDER Men",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 13657,
+    "firstname": "Lucas",
+    "lastname": "TRANDAFIR",
+    "name": "TRANDAFIR Lucas",
+    "gender": 0,
+    "federation": "DAV",
+    "federation_id": 6,
+    "country": "GER",
+    "d_cats": [
+      {
+        "id": 3,
+        "name": "BOULDER Men",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 13393,
+    "firstname": "Timo",
+    "lastname": "OSSIG",
+    "name": "OSSIG Timo",
+    "gender": 0,
+    "federation": "DAV",
+    "federation_id": 6,
+    "country": "GER",
+    "d_cats": [
+      {
+        "id": 3,
+        "name": "BOULDER Men",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 4330,
+    "firstname": "Lucia",
+    "lastname": "DÖRFFEL",
+    "name": "DÖRFFEL Lucia",
+    "gender": 1,
+    "federation": "DAV",
+    "federation_id": 6,
+    "country": "GER",
+    "d_cats": [
+      {
+        "id": 7,
+        "name": "BOULDER Women",
+        "status": "not attending"
+      }
+    ]
+  },
+  {
+    "athlete_id": 4328,
+    "firstname": "Alma",
+    "lastname": "BESTVATER",
+    "name": "BESTVATER Alma",
+    "gender": 1,
+    "federation": "DAV",
+    "federation_id": 6,
+    "country": "GER",
+    "d_cats": [
+      {
+        "id": 7,
+        "name": "BOULDER Women",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 3354,
+    "firstname": "Afra",
+    "lastname": "HÖNIG",
+    "name": "HÖNIG Afra",
+    "gender": 1,
+    "federation": "DAV",
+    "federation_id": 6,
+    "country": "GER",
+    "d_cats": [
+      {
+        "id": 7,
+        "name": "BOULDER Women",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 11740,
+    "firstname": "Sandra",
+    "lastname": "HOPFENSITZ",
+    "name": "HOPFENSITZ Sandra",
+    "gender": 1,
+    "federation": "DAV",
+    "federation_id": 6,
+    "country": "GER",
+    "d_cats": [
+      {
+        "id": 7,
+        "name": "BOULDER Women",
+        "status": "not attending"
+      }
+    ]
+  },
+  {
+    "athlete_id": 2219,
+    "firstname": "Cheuk-Hei",
+    "lastname": "HO",
+    "name": "HO Cheuk-hei",
+    "gender": 0,
+    "federation": "HKCMCU",
+    "federation_id": 24,
+    "country": "HKG",
+    "d_cats": [
+      {
+        "id": 3,
+        "name": "BOULDER Men",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 2229,
+    "firstname": "Tseng-Shun",
+    "lastname": "WONG",
+    "name": "WONG Tseng-shun",
+    "gender": 1,
+    "federation": "HKCMCU",
+    "federation_id": 24,
+    "country": "HKG",
+    "d_cats": [
+      {
+        "id": 7,
+        "name": "BOULDER Women",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 16864,
+    "firstname": "Jonathan Odiel",
+    "lastname": "BENITEZ RODRIGUEZ",
+    "name": "BENITEZ RODRIGUEZ Jonathan Odiel",
+    "gender": 0,
+    "federation": "FEHDME",
+    "federation_id": 85,
+    "country": "HON",
+    "d_cats": [
+      {
+        "id": 3,
+        "name": "BOULDER Men",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 11683,
+    "firstname": "Adi",
+    "lastname": "BARK",
+    "name": "BARK Adi",
+    "gender": 0,
+    "federation": "ILCA",
+    "federation_id": 60,
+    "country": "ISR",
+    "d_cats": [
+      {
+        "id": 3,
+        "name": "BOULDER Men",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 4021,
+    "firstname": "Ido",
+    "lastname": "FIDEL",
+    "name": "FIDEL Ido",
+    "gender": 0,
+    "federation": "ILCA",
+    "federation_id": 60,
+    "country": "ISR",
+    "d_cats": [
+      {
+        "id": 3,
+        "name": "BOULDER Men",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 13362,
+    "firstname": "Ruby",
+    "lastname": "DANZIGER",
+    "name": "DANZIGER Ruby",
+    "gender": 1,
+    "federation": "ILCA",
+    "federation_id": 60,
+    "country": "ISR",
+    "d_cats": [
+      {
+        "id": 7,
+        "name": "BOULDER Women",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 12610,
+    "firstname": "Ada",
+    "lastname": "KARLSBRUN",
+    "name": "KARLSBRUN Ada",
+    "gender": 1,
+    "federation": "ILCA",
+    "federation_id": 60,
+    "country": "ISR",
+    "d_cats": [
+      {
+        "id": 7,
+        "name": "BOULDER Women",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 1047,
+    "firstname": "Nicolò",
+    "lastname": "SARTIRANA",
+    "name": "SARTIRANA Nicolò",
+    "gender": 0,
+    "federation": "FASI",
+    "federation_id": 13,
+    "country": "ITA",
+    "d_cats": [
+      {
+        "id": 3,
+        "name": "BOULDER Men",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 13417,
+    "firstname": "Niccolò Antony",
+    "lastname": "SALVATORE",
+    "name": "SALVATORE Niccolò Antony",
+    "gender": 0,
+    "federation": "FASI",
+    "federation_id": 13,
+    "country": "ITA",
+    "d_cats": [
+      {
+        "id": 3,
+        "name": "BOULDER Men",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 914,
+    "firstname": "Giorgia",
+    "lastname": "TESIO",
+    "name": "TESIO Giorgia",
+    "gender": 1,
+    "federation": "FASI",
+    "federation_id": 13,
+    "country": "ITA",
+    "d_cats": [
+      {
+        "id": 7,
+        "name": "BOULDER Women",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 947,
+    "firstname": "Camilla",
+    "lastname": "MORONI",
+    "name": "MORONI Camilla",
+    "gender": 1,
+    "federation": "FASI",
+    "federation_id": 13,
+    "country": "ITA",
+    "d_cats": [
+      {
+        "id": 7,
+        "name": "BOULDER Women",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 910,
+    "firstname": "Giulia",
+    "lastname": "MEDICI",
+    "name": "MEDICI Giulia",
+    "gender": 1,
+    "federation": "FASI",
+    "federation_id": 13,
+    "country": "ITA",
+    "d_cats": [
+      {
+        "id": 7,
+        "name": "BOULDER Women",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 12523,
+    "firstname": "Francesca",
+    "lastname": "MATUELLA",
+    "name": "MATUELLA Francesca",
+    "gender": 1,
+    "federation": "FASI",
+    "federation_id": 13,
+    "country": "ITA",
+    "d_cats": [
+      {
+        "id": 7,
+        "name": "BOULDER Women",
+        "status": "not attending"
+      }
+    ]
+  },
+  {
+    "athlete_id": 1038,
+    "firstname": "Irina",
+    "lastname": "DAZIANO",
+    "name": "DAZIANO Irina",
+    "gender": 1,
+    "federation": "FASI",
+    "federation_id": 13,
+    "country": "ITA",
+    "d_cats": [
+      {
+        "id": 7,
+        "name": "BOULDER Women",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 2294,
+    "firstname": "Miho",
+    "lastname": "NONAKA",
+    "name": "NONAKA Miho",
+    "gender": 1,
+    "federation": "JMSCA",
+    "federation_id": 25,
+    "country": "JPN",
+    "d_cats": [
+      {
+        "id": 7,
+        "name": "BOULDER Women",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 13992,
+    "firstname": "Mashiro",
+    "lastname": "KUZUU",
+    "name": "KUZUU Mashiro",
+    "gender": 1,
+    "federation": "JMSCA",
+    "federation_id": 25,
+    "country": "JPN",
+    "d_cats": [
+      {
+        "id": 7,
+        "name": "BOULDER Women",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 11871,
+    "firstname": "Sohta",
+    "lastname": "AMAGASA",
+    "name": "AMAGASA Sohta",
+    "gender": 0,
+    "federation": "JMSCA",
+    "federation_id": 25,
+    "country": "JPN",
+    "d_cats": [
+      {
+        "id": 3,
+        "name": "BOULDER Men",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 2348,
+    "firstname": "Yuji",
+    "lastname": "FUJIWAKI",
+    "name": "FUJIWAKI Yuji",
+    "gender": 0,
+    "federation": "JMSCA",
+    "federation_id": 25,
+    "country": "JPN",
+    "d_cats": [
+      {
+        "id": 3,
+        "name": "BOULDER Men",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 13040,
+    "firstname": "Sorato",
+    "lastname": "ANRAKU",
+    "name": "ANRAKU Sorato",
+    "gender": 0,
+    "federation": "JMSCA",
+    "federation_id": 25,
+    "country": "JPN",
+    "d_cats": [
+      {
+        "id": 3,
+        "name": "BOULDER Men",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 2257,
+    "firstname": "Rei",
+    "lastname": "SUGIMOTO",
+    "name": "SUGIMOTO Rei",
+    "gender": 0,
+    "federation": "JMSCA",
+    "federation_id": 25,
+    "country": "JPN",
+    "d_cats": [
+      {
+        "id": 3,
+        "name": "BOULDER Men",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 2307,
+    "firstname": "Meichi",
+    "lastname": "NARASAKI",
+    "name": "NARASAKI Meichi",
+    "gender": 0,
+    "federation": "JMSCA",
+    "federation_id": 25,
+    "country": "JPN",
+    "d_cats": [
+      {
+        "id": 3,
+        "name": "BOULDER Men",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 2276,
+    "firstname": "Tomoa",
+    "lastname": "NARASAKI",
+    "name": "NARASAKI Tomoa",
+    "gender": 0,
+    "federation": "JMSCA",
+    "federation_id": 25,
+    "country": "JPN",
+    "d_cats": [
+      {
+        "id": 3,
+        "name": "BOULDER Men",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 12297,
+    "firstname": "Anon",
+    "lastname": "MATSUFUJI",
+    "name": "MATSUFUJI Anon",
+    "gender": 1,
+    "federation": "JMSCA",
+    "federation_id": 25,
+    "country": "JPN",
+    "d_cats": [
+      {
+        "id": 7,
+        "name": "BOULDER Women",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 2357,
+    "firstname": "Futaba",
+    "lastname": "ITO",
+    "name": "ITO Futaba",
+    "gender": 1,
+    "federation": "JMSCA",
+    "federation_id": 25,
+    "country": "JPN",
+    "d_cats": [
+      {
+        "id": 7,
+        "name": "BOULDER Women",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 14008,
+    "firstname": "Melody",
+    "lastname": "SEKIKAWA",
+    "name": "SEKIKAWA Melody",
+    "gender": 1,
+    "federation": "JMSCA",
+    "federation_id": 25,
+    "country": "JPN",
+    "d_cats": [
+      {
+        "id": 7,
+        "name": "BOULDER Women",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 2327,
+    "firstname": "Mao",
+    "lastname": "NAKAMURA",
+    "name": "NAKAMURA Mao",
+    "gender": 1,
+    "federation": "JMSCA",
+    "federation_id": 25,
+    "country": "JPN",
+    "d_cats": [
+      {
+        "id": 7,
+        "name": "BOULDER Women",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 15035,
+    "firstname": "Beomjin",
+    "lastname": "PARK",
+    "name": "PARK BEOMJIN",
+    "gender": 0,
+    "federation": "KAF",
+    "federation_id": 21,
+    "country": "KOR",
+    "d_cats": [
+      {
+        "id": 3,
+        "name": "BOULDER Men",
+        "status": "not attending"
+      }
+    ]
+  },
+  {
+    "athlete_id": 15031,
+    "firstname": "Hyunseung",
+    "lastname": "NOH",
+    "name": "NOH HYUNSEUNG",
+    "gender": 0,
+    "federation": "KAF",
+    "federation_id": 21,
+    "country": "KOR",
+    "d_cats": [
+      {
+        "id": 3,
+        "name": "BOULDER Men",
+        "status": "not attending"
+      }
+    ]
+  },
+  {
+    "athlete_id": 2101,
+    "firstname": "Dohyun",
+    "lastname": "LEE",
+    "name": "LEE Dohyun",
+    "gender": 0,
+    "federation": "KAF",
+    "federation_id": 21,
+    "country": "KOR",
+    "d_cats": [
+      {
+        "id": 3,
+        "name": "BOULDER Men",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 13556,
+    "firstname": "Gayeong",
+    "lastname": "OH",
+    "name": "OH Gayeong",
+    "gender": 1,
+    "federation": "KAF",
+    "federation_id": 21,
+    "country": "KOR",
+    "d_cats": [
+      {
+        "id": 7,
+        "name": "BOULDER Women",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 11377,
+    "firstname": "Yejin",
+    "lastname": "JUNG",
+    "name": "JUNG Yejin",
+    "gender": 1,
+    "federation": "KAF",
+    "federation_id": 21,
+    "country": "KOR",
+    "d_cats": [
+      {
+        "id": 7,
+        "name": "BOULDER Women",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 15026,
+    "firstname": "Yejun",
+    "lastname": "CHON",
+    "name": "CHON Yejun",
+    "gender": 0,
+    "federation": "KAF",
+    "federation_id": 21,
+    "country": "KOR",
+    "d_cats": [
+      {
+        "id": 3,
+        "name": "BOULDER Men",
+        "status": "not attending"
+      }
+    ]
+  },
+  {
+    "athlete_id": 16576,
+    "firstname": "Andrés",
+    "lastname": "ORTEGA FOSADO",
+    "name": "ORTEGA FOSADO Andrés",
+    "gender": 0,
+    "federation": "FEMED",
+    "federation_id": 69,
+    "country": "MEX",
+    "d_cats": [
+      {
+        "id": 3,
+        "name": "BOULDER Men",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 11842,
+    "firstname": "Jair Octavio",
+    "lastname": "MORENO MONTOYA",
+    "name": "MORENO MONTOYA Jair Octavio",
+    "gender": 0,
+    "federation": "FEMED",
+    "federation_id": 69,
+    "country": "MEX",
+    "d_cats": [
+      {
+        "id": 3,
+        "name": "BOULDER Men",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 4227,
+    "firstname": "Arantza",
+    "lastname": "FERNÁNDEZ GUTIERREZ",
+    "name": "FERNÁNDEZ GUTIERREZ Arantza",
+    "gender": 1,
+    "federation": "FEMED",
+    "federation_id": 69,
+    "country": "MEX",
+    "d_cats": [
+      {
+        "id": 7,
+        "name": "BOULDER Women",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 13890,
+    "firstname": "Natalia De Jesús",
+    "lastname": "GONZÁLEZ",
+    "name": "GONZÁLEZ Natalia de Jesús",
+    "gender": 1,
+    "federation": "FEMED",
+    "federation_id": 69,
+    "country": "MEX",
+    "d_cats": [
+      {
+        "id": 7,
+        "name": "BOULDER Women",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 12735,
+    "firstname": "Pernille",
+    "lastname": "TVEDT",
+    "name": "TVEDT Pernille",
+    "gender": 1,
+    "federation": "NCF",
+    "federation_id": 39,
+    "country": "NOR",
+    "d_cats": [
+      {
+        "id": 7,
+        "name": "BOULDER Women",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 15250,
+    "firstname": "Aj",
+    "lastname": "GOLDSMITH",
+    "name": "GOLDSMITH AJ",
+    "gender": 0,
+    "federation": "CNZ",
+    "federation_id": 53,
+    "country": "NZL",
+    "d_cats": [
+      {
+        "id": 3,
+        "name": "BOULDER Men",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 12490,
+    "firstname": "Alexandru-Florian",
+    "lastname": "ZAHARIA",
+    "name": "ZAHARIA Alexandru-Florian",
+    "gender": 0,
+    "federation": "FRAE",
+    "federation_id": 33,
+    "country": "ROU",
+    "d_cats": [
+      {
+        "id": 3,
+        "name": "BOULDER Men",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 1138,
+    "firstname": "Anze",
+    "lastname": "PEHARC",
+    "name": "PEHARC Anze",
+    "gender": 0,
+    "federation": "PZS",
+    "federation_id": 15,
+    "country": "SLO",
+    "d_cats": [
+      {
+        "id": 3,
+        "name": "BOULDER Men",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 1187,
+    "firstname": "Timotej",
+    "lastname": "ROMŠAK",
+    "name": "ROMŠAK Timotej",
+    "gender": 0,
+    "federation": "PZS",
+    "federation_id": 15,
+    "country": "SLO",
+    "d_cats": [
+      {
+        "id": 3,
+        "name": "BOULDER Men",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 1181,
+    "firstname": "Lucija",
+    "lastname": "TARKUS",
+    "name": "TARKUS Lucija",
+    "gender": 1,
+    "federation": "PZS",
+    "federation_id": 15,
+    "country": "SLO",
+    "d_cats": [
+      {
+        "id": 7,
+        "name": "BOULDER Women",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 1130,
+    "firstname": "Katja",
+    "lastname": "DEBEVEC",
+    "name": "DEBEVEC Katja",
+    "gender": 1,
+    "federation": "PZS",
+    "federation_id": 15,
+    "country": "SLO",
+    "d_cats": [
+      {
+        "id": 7,
+        "name": "BOULDER Women",
+        "status": "not attending"
+      }
+    ]
+  },
+  {
+    "athlete_id": 4283,
+    "firstname": "Julien",
+    "lastname": "CLÉMENCE",
+    "name": "CLÉMENCE Julien",
+    "gender": 0,
+    "federation": "SAC",
+    "federation_id": 8,
+    "country": "SUI",
+    "d_cats": [
+      {
+        "id": 3,
+        "name": "BOULDER Men",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 4260,
+    "firstname": "Sofya",
+    "lastname": "YOKOYAMA",
+    "name": "YOKOYAMA Sofya",
+    "gender": 1,
+    "federation": "SAC",
+    "federation_id": 8,
+    "country": "SUI",
+    "d_cats": [
+      {
+        "id": 7,
+        "name": "BOULDER Women",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 12348,
+    "firstname": "Martina",
+    "lastname": "BURŠÍKOVÁ",
+    "name": "BURŠÍKOVÁ Martina",
+    "gender": 1,
+    "federation": "SMU JAMES",
+    "federation_id": 34,
+    "country": "SVK",
+    "d_cats": [
+      {
+        "id": 7,
+        "name": "BOULDER Women",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 13627,
+    "firstname": "Ardch",
+    "lastname": "INTRACHUPONGSE",
+    "name": "INTRACHUPONGSE ARDCH",
+    "gender": 0,
+    "federation": "TSCA",
+    "federation_id": 59,
+    "country": "THA",
+    "d_cats": [
+      {
+        "id": 3,
+        "name": "BOULDER Men",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 11813,
+    "firstname": "Cloe",
+    "lastname": "COSCOY",
+    "name": "COSCOY Cloe",
+    "gender": 1,
+    "federation": "USAC",
+    "federation_id": 20,
+    "country": "USA",
+    "d_cats": [
+      {
+        "id": 7,
+        "name": "BOULDER Women",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 1916,
+    "firstname": "Nekaia",
+    "lastname": "SANDERS",
+    "name": "SANDERS Nekaia",
+    "gender": 1,
+    "federation": "USAC",
+    "federation_id": 20,
+    "country": "USA",
+    "d_cats": [
+      {
+        "id": 7,
+        "name": "BOULDER Women",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 1990,
+    "firstname": "Helen",
+    "lastname": "GILLETT",
+    "name": "GILLETT Helen",
+    "gender": 1,
+    "federation": "USAC",
+    "federation_id": 20,
+    "country": "USA",
+    "d_cats": [
+      {
+        "id": 7,
+        "name": "BOULDER Women",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 13020,
+    "firstname": "Adriene Akiko",
+    "lastname": "CLARK",
+    "name": "CLARK Adriene Akiko",
+    "gender": 1,
+    "federation": "USAC",
+    "federation_id": 20,
+    "country": "USA",
+    "d_cats": [
+      {
+        "id": 7,
+        "name": "BOULDER Women",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 13021,
+    "firstname": "Annie",
+    "lastname": "SANDERS",
+    "name": "SANDERS Annie",
+    "gender": 1,
+    "federation": "USAC",
+    "federation_id": 20,
+    "country": "USA",
+    "d_cats": [
+      {
+        "id": 7,
+        "name": "BOULDER Women",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 1750,
+    "firstname": "Kyra",
+    "lastname": "CONDIE",
+    "name": "CONDIE Kyra",
+    "gender": 1,
+    "federation": "USAC",
+    "federation_id": 20,
+    "country": "USA",
+    "d_cats": [
+      {
+        "id": 7,
+        "name": "BOULDER Women",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 16187,
+    "firstname": "Cozmo",
+    "lastname": "ROTHFORK",
+    "name": "ROTHFORK Cozmo",
+    "gender": 0,
+    "federation": "USAC",
+    "federation_id": 20,
+    "country": "USA",
+    "d_cats": [
+      {
+        "id": 3,
+        "name": "BOULDER Men",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 13027,
+    "firstname": "Adam",
+    "lastname": "SHAHAR",
+    "name": "SHAHAR Adam",
+    "gender": 0,
+    "federation": "USAC",
+    "federation_id": 20,
+    "country": "USA",
+    "d_cats": [
+      {
+        "id": 3,
+        "name": "BOULDER Men",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 16706,
+    "firstname": "Joshua",
+    "lastname": "GERHARDT",
+    "name": "GERHARDT Joshua",
+    "gender": 0,
+    "federation": "USAC",
+    "federation_id": 20,
+    "country": "USA",
+    "d_cats": [
+      {
+        "id": 3,
+        "name": "BOULDER Men",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 14983,
+    "firstname": "Vail",
+    "lastname": "EVERETT",
+    "name": "EVERETT Vail",
+    "gender": 0,
+    "federation": "USAC",
+    "federation_id": 20,
+    "country": "USA",
+    "d_cats": [
+      {
+        "id": 3,
+        "name": "BOULDER Men",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 1758,
+    "firstname": "Benjamin",
+    "lastname": "HANNA",
+    "name": "HANNA Benjamin",
+    "gender": 0,
+    "federation": "USAC",
+    "federation_id": 20,
+    "country": "USA",
+    "d_cats": [
+      {
+        "id": 3,
+        "name": "BOULDER Men",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 1934,
+    "firstname": "Alexander",
+    "lastname": "WALLER",
+    "name": "WALLER Alexander",
+    "gender": 0,
+    "federation": "USAC",
+    "federation_id": 20,
+    "country": "USA",
+    "d_cats": [
+      {
+        "id": 3,
+        "name": "BOULDER Men",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 1929,
+    "firstname": "Colin",
+    "lastname": "DUFFY",
+    "name": "DUFFY Colin",
+    "gender": 0,
+    "federation": "USAC",
+    "federation_id": 20,
+    "country": "USA",
+    "d_cats": [
+      {
+        "id": 3,
+        "name": "BOULDER Men",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 12032,
+    "firstname": "Isaac",
+    "lastname": "LEFF",
+    "name": "LEFF Isaac",
+    "gender": 0,
+    "federation": "USAC",
+    "federation_id": 20,
+    "country": "USA",
+    "d_cats": [
+      {
+        "id": 3,
+        "name": "BOULDER Men",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 13022,
+    "firstname": "Ella",
+    "lastname": "FISHER",
+    "name": "FISHER Ella",
+    "gender": 1,
+    "federation": "USAC",
+    "federation_id": 20,
+    "country": "USA",
+    "d_cats": [
+      {
+        "id": 7,
+        "name": "BOULDER Women",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 1824,
+    "firstname": "Maya",
+    "lastname": "MADERE",
+    "name": "MADERE Maya",
+    "gender": 1,
+    "federation": "USAC",
+    "federation_id": 20,
+    "country": "USA",
+    "d_cats": [
+      {
+        "id": 7,
+        "name": "BOULDER Women",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 15054,
+    "firstname": "Paloma",
+    "lastname": "SLOWIK",
+    "name": "SLOWIK Paloma",
+    "gender": 1,
+    "federation": "USAC",
+    "federation_id": 20,
+    "country": "USA",
+    "d_cats": [
+      {
+        "id": 7,
+        "name": "BOULDER Women",
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "athlete_id": 1914,
+    "firstname": "Quinn",
+    "lastname": "MASON",
+    "name": "MASON Quinn",
+    "gender": 1,
+    "federation": "USAC",
+    "federation_id": 20,
+    "country": "USA",
+    "d_cats": [
+      {
+        "id": 7,
+        "name": "BOULDER Women",
+        "status": "confirmed"
+      }
+    ]
+  }
+]

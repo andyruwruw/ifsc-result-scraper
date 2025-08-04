@@ -1,0 +1,854 @@
+{
+  "id": 10033,
+  "event": "IFSC World Cup Salt Lake City 2025",
+  "event_id": 1409,
+  "dcat_id": 3,
+  "discipline": "Boulder",
+  "status": "finished",
+  "status_as_of": "2025-05-26 00:48:01 UTC",
+  "category": "Men",
+  "round": "Final",
+  "format": "IFSC: finals 2025 (points)",
+  "routes": [
+    {
+      "id": 16628,
+      "name": "1",
+      "startlist": "/api/v1/routes/16628/startlist"
+    },
+    {
+      "id": 16629,
+      "name": "2",
+      "startlist": "/api/v1/routes/16629/startlist"
+    },
+    {
+      "id": 16630,
+      "name": "3",
+      "startlist": "/api/v1/routes/16630/startlist"
+    },
+    {
+      "id": 16631,
+      "name": "4",
+      "startlist": "/api/v1/routes/16631/startlist"
+    }
+  ],
+  "ranking": [
+    {
+      "athlete_id": 13040,
+      "name": "ANRAKU Sorato",
+      "firstname": "Sorato",
+      "lastname": "ANRAKU",
+      "country": "JPN",
+      "flag_url": "https://d1n1qj9geboqnb.cloudfront.net/flags/JPN.png",
+      "federation_id": 25,
+      "bib": "101",
+      "rank": 1,
+      "score": "84.4",
+      "start_order": 8,
+      "ascents": [
+        {
+          "route_id": 16628,
+          "route_name": "1",
+          "top": false,
+          "top_tries": 8,
+          "zone": true,
+          "zone_tries": 6,
+          "low_zone": null,
+          "points": 9.5,
+          "low_zone_tries": null,
+          "modified": "2025-05-25 23:47:22 +00:00",
+          "status": "locked"
+        },
+        {
+          "route_id": 16629,
+          "route_name": "2",
+          "top": true,
+          "top_tries": 2,
+          "zone": true,
+          "zone_tries": 2,
+          "low_zone": null,
+          "points": 24.9,
+          "low_zone_tries": null,
+          "modified": "2025-05-26 00:15:56 +00:00",
+          "status": "locked"
+        },
+        {
+          "route_id": 16630,
+          "route_name": "3",
+          "top": true,
+          "top_tries": 1,
+          "zone": true,
+          "zone_tries": 1,
+          "low_zone": null,
+          "points": 25.0,
+          "low_zone_tries": null,
+          "modified": "2025-05-26 00:31:49 +00:00",
+          "status": "locked"
+        },
+        {
+          "route_id": 16631,
+          "route_name": "4",
+          "top": true,
+          "top_tries": 1,
+          "zone": true,
+          "zone_tries": 1,
+          "low_zone": null,
+          "points": 25.0,
+          "low_zone_tries": null,
+          "modified": "2025-05-26 00:45:38 +00:00",
+          "status": "locked"
+        }
+      ],
+      "combined_stages": null,
+      "active": false,
+      "under_appeal": false
+    },
+    {
+      "athlete_id": 11871,
+      "name": "AMAGASA Sohta",
+      "firstname": "Sohta",
+      "lastname": "AMAGASA",
+      "country": "JPN",
+      "flag_url": "https://d1n1qj9geboqnb.cloudfront.net/flags/JPN.png",
+      "federation_id": 25,
+      "bib": "142",
+      "rank": 2,
+      "score": "69.6",
+      "start_order": 4,
+      "ascents": [
+        {
+          "route_id": 16628,
+          "route_name": "1",
+          "top": true,
+          "top_tries": 2,
+          "zone": true,
+          "zone_tries": 1,
+          "low_zone": null,
+          "points": 24.9,
+          "low_zone_tries": null,
+          "modified": "2025-05-25 23:47:10 +00:00",
+          "status": "locked"
+        },
+        {
+          "route_id": 16629,
+          "route_name": "2",
+          "top": true,
+          "top_tries": 3,
+          "zone": true,
+          "zone_tries": 1,
+          "low_zone": null,
+          "points": 24.8,
+          "low_zone_tries": null,
+          "modified": "2025-05-26 00:08:14 +00:00",
+          "status": "locked"
+        },
+        {
+          "route_id": 16630,
+          "route_name": "3",
+          "top": false,
+          "top_tries": 5,
+          "zone": true,
+          "zone_tries": 1,
+          "low_zone": null,
+          "points": 10.0,
+          "low_zone_tries": null,
+          "modified": "2025-05-26 00:31:41 +00:00",
+          "status": "locked"
+        },
+        {
+          "route_id": 16631,
+          "route_name": "4",
+          "top": false,
+          "top_tries": 3,
+          "zone": true,
+          "zone_tries": 2,
+          "low_zone": null,
+          "points": 9.9,
+          "low_zone_tries": null,
+          "modified": "2025-05-26 00:34:19 +00:00",
+          "status": "locked"
+        }
+      ],
+      "combined_stages": null,
+      "active": false,
+      "under_appeal": false
+    },
+    {
+      "athlete_id": 2101,
+      "name": "LEE Dohyun",
+      "firstname": "Dohyun",
+      "lastname": "LEE",
+      "country": "KOR",
+      "flag_url": "https://d1n1qj9geboqnb.cloudfront.net/flags/KOR.png",
+      "federation_id": 21,
+      "bib": "141",
+      "rank": 3,
+      "score": "69.5",
+      "start_order": 7,
+      "ascents": [
+        {
+          "route_id": 16628,
+          "route_name": "1",
+          "top": false,
+          "top_tries": 4,
+          "zone": true,
+          "zone_tries": 2,
+          "low_zone": null,
+          "points": 9.9,
+          "low_zone_tries": null,
+          "modified": "2025-05-25 23:47:21 +00:00",
+          "status": "locked"
+        },
+        {
+          "route_id": 16629,
+          "route_name": "2",
+          "top": true,
+          "top_tries": 2,
+          "zone": true,
+          "zone_tries": 2,
+          "low_zone": null,
+          "points": 24.9,
+          "low_zone_tries": null,
+          "modified": "2025-05-26 00:08:29 +00:00",
+          "status": "locked"
+        },
+        {
+          "route_id": 16630,
+          "route_name": "3",
+          "top": false,
+          "top_tries": 4,
+          "zone": true,
+          "zone_tries": 3,
+          "low_zone": null,
+          "points": 9.8,
+          "low_zone_tries": null,
+          "modified": "2025-05-26 00:31:48 +00:00",
+          "status": "locked"
+        },
+        {
+          "route_id": 16631,
+          "route_name": "4",
+          "top": true,
+          "top_tries": 2,
+          "zone": true,
+          "zone_tries": 2,
+          "low_zone": null,
+          "points": 24.9,
+          "low_zone_tries": null,
+          "modified": "2025-05-26 00:45:39 +00:00",
+          "status": "locked"
+        }
+      ],
+      "combined_stages": null,
+      "active": false,
+      "under_appeal": false
+    },
+    {
+      "athlete_id": 1929,
+      "name": "DUFFY Colin",
+      "firstname": "Colin",
+      "lastname": "DUFFY",
+      "country": "USA",
+      "flag_url": "https://d1n1qj9geboqnb.cloudfront.net/flags/USA.png",
+      "federation_id": 20,
+      "bib": "152",
+      "rank": 4,
+      "score": "59.6",
+      "start_order": 1,
+      "ascents": [
+        {
+          "route_id": 16628,
+          "route_name": "1",
+          "top": true,
+          "top_tries": 2,
+          "zone": true,
+          "zone_tries": 1,
+          "low_zone": null,
+          "points": 24.9,
+          "low_zone_tries": null,
+          "modified": "2025-05-25 23:47:00 +00:00",
+          "status": "locked"
+        },
+        {
+          "route_id": 16629,
+          "route_name": "2",
+          "top": true,
+          "top_tries": 4,
+          "zone": true,
+          "zone_tries": 3,
+          "low_zone": null,
+          "points": 24.7,
+          "low_zone_tries": null,
+          "modified": "2025-05-26 00:08:08 +00:00",
+          "status": "locked"
+        },
+        {
+          "route_id": 16630,
+          "route_name": "3",
+          "top": false,
+          "top_tries": 9,
+          "zone": false,
+          "zone_tries": 9,
+          "low_zone": null,
+          "points": 0.0,
+          "low_zone_tries": null,
+          "modified": "2025-05-26 00:31:37 +00:00",
+          "status": "locked"
+        },
+        {
+          "route_id": 16631,
+          "route_name": "4",
+          "top": false,
+          "top_tries": 3,
+          "zone": true,
+          "zone_tries": 1,
+          "low_zone": null,
+          "points": 10.0,
+          "low_zone_tries": null,
+          "modified": "2025-05-26 00:34:17 +00:00",
+          "status": "locked"
+        }
+      ],
+      "combined_stages": null,
+      "active": false,
+      "under_appeal": false
+    },
+    {
+      "athlete_id": 2307,
+      "name": "NARASAKI Meichi",
+      "firstname": "Meichi",
+      "lastname": "NARASAKI",
+      "country": "JPN",
+      "flag_url": "https://d1n1qj9geboqnb.cloudfront.net/flags/JPN.png",
+      "federation_id": 25,
+      "bib": "103",
+      "rank": 5,
+      "score": "54.8",
+      "start_order": 2,
+      "ascents": [
+        {
+          "route_id": 16628,
+          "route_name": "1",
+          "top": false,
+          "top_tries": 5,
+          "zone": true,
+          "zone_tries": 1,
+          "low_zone": null,
+          "points": 10.0,
+          "low_zone_tries": null,
+          "modified": "2025-05-25 23:47:05 +00:00",
+          "status": "locked"
+        },
+        {
+          "route_id": 16629,
+          "route_name": "2",
+          "top": true,
+          "top_tries": 1,
+          "zone": true,
+          "zone_tries": 1,
+          "low_zone": null,
+          "points": 25.0,
+          "low_zone_tries": null,
+          "modified": "2025-05-26 00:08:11 +00:00",
+          "status": "locked"
+        },
+        {
+          "route_id": 16630,
+          "route_name": "3",
+          "top": false,
+          "top_tries": 6,
+          "zone": true,
+          "zone_tries": 3,
+          "low_zone": null,
+          "points": 9.8,
+          "low_zone_tries": null,
+          "modified": "2025-05-26 00:31:38 +00:00",
+          "status": "locked"
+        },
+        {
+          "route_id": 16631,
+          "route_name": "4",
+          "top": false,
+          "top_tries": 2,
+          "zone": true,
+          "zone_tries": 1,
+          "low_zone": null,
+          "points": 10.0,
+          "low_zone_tries": null,
+          "modified": "2025-05-26 00:34:18 +00:00",
+          "status": "locked"
+        }
+      ],
+      "combined_stages": null,
+      "active": false,
+      "under_appeal": false
+    },
+    {
+      "athlete_id": 11675,
+      "name": "SCHALCK Mejdi",
+      "firstname": "Mejdi",
+      "lastname": "SCHALCK",
+      "country": "FRA",
+      "flag_url": "https://d1n1qj9geboqnb.cloudfront.net/flags/FRA.png",
+      "federation_id": 10,
+      "bib": "143",
+      "rank": 6,
+      "score": "54.4",
+      "start_order": 6,
+      "ascents": [
+        {
+          "route_id": 16628,
+          "route_name": "1",
+          "top": false,
+          "top_tries": 2,
+          "zone": true,
+          "zone_tries": 1,
+          "low_zone": null,
+          "points": 10.0,
+          "low_zone_tries": null,
+          "modified": "2025-05-25 23:47:14 +00:00",
+          "status": "locked"
+        },
+        {
+          "route_id": 16629,
+          "route_name": "2",
+          "top": true,
+          "top_tries": 2,
+          "zone": true,
+          "zone_tries": 1,
+          "low_zone": null,
+          "points": 24.9,
+          "low_zone_tries": null,
+          "modified": "2025-05-26 00:08:22 +00:00",
+          "status": "locked"
+        },
+        {
+          "route_id": 16630,
+          "route_name": "3",
+          "top": false,
+          "top_tries": 6,
+          "zone": true,
+          "zone_tries": 5,
+          "low_zone": null,
+          "points": 9.6,
+          "low_zone_tries": null,
+          "modified": "2025-05-26 00:31:45 +00:00",
+          "status": "locked"
+        },
+        {
+          "route_id": 16631,
+          "route_name": "4",
+          "top": false,
+          "top_tries": 3,
+          "zone": true,
+          "zone_tries": 2,
+          "low_zone": null,
+          "points": 9.9,
+          "low_zone_tries": null,
+          "modified": "2025-05-26 00:41:23 +00:00",
+          "status": "locked"
+        }
+      ],
+      "combined_stages": null,
+      "active": false,
+      "under_appeal": false
+    },
+    {
+      "athlete_id": 2348,
+      "name": "FUJIWAKI Yuji",
+      "firstname": "Yuji",
+      "lastname": "FUJIWAKI",
+      "country": "JPN",
+      "flag_url": "https://d1n1qj9geboqnb.cloudfront.net/flags/JPN.png",
+      "federation_id": 25,
+      "bib": "145",
+      "rank": 7,
+      "score": "44.3",
+      "start_order": 5,
+      "ascents": [
+        {
+          "route_id": 16628,
+          "route_name": "1",
+          "top": false,
+          "top_tries": 4,
+          "zone": true,
+          "zone_tries": 4,
+          "low_zone": null,
+          "points": 9.7,
+          "low_zone_tries": null,
+          "modified": "2025-05-25 23:47:14 +00:00",
+          "status": "locked"
+        },
+        {
+          "route_id": 16629,
+          "route_name": "2",
+          "top": false,
+          "top_tries": 9,
+          "zone": false,
+          "zone_tries": 9,
+          "low_zone": null,
+          "points": 0.0,
+          "low_zone_tries": null,
+          "modified": "2025-05-26 00:08:21 +00:00",
+          "status": "locked"
+        },
+        {
+          "route_id": 16630,
+          "route_name": "3",
+          "top": true,
+          "top_tries": 4,
+          "zone": true,
+          "zone_tries": 4,
+          "low_zone": null,
+          "points": 24.7,
+          "low_zone_tries": null,
+          "modified": "2025-05-26 00:31:43 +00:00",
+          "status": "locked"
+        },
+        {
+          "route_id": 16631,
+          "route_name": "4",
+          "top": false,
+          "top_tries": 5,
+          "zone": true,
+          "zone_tries": 2,
+          "low_zone": null,
+          "points": 9.9,
+          "low_zone_tries": null,
+          "modified": "2025-05-26 00:37:03 +00:00",
+          "status": "locked"
+        }
+      ],
+      "combined_stages": null,
+      "active": false,
+      "under_appeal": false
+    },
+    {
+      "athlete_id": 2257,
+      "name": "SUGIMOTO Rei",
+      "firstname": "Rei",
+      "lastname": "SUGIMOTO",
+      "country": "JPN",
+      "flag_url": "https://d1n1qj9geboqnb.cloudfront.net/flags/JPN.png",
+      "federation_id": 25,
+      "bib": "113",
+      "rank": 8,
+      "score": "29.5",
+      "start_order": 3,
+      "ascents": [
+        {
+          "route_id": 16628,
+          "route_name": "1",
+          "top": false,
+          "top_tries": 5,
+          "zone": true,
+          "zone_tries": 3,
+          "low_zone": null,
+          "points": 9.8,
+          "low_zone_tries": null,
+          "modified": "2025-05-25 23:47:05 +00:00",
+          "status": "locked"
+        },
+        {
+          "route_id": 16629,
+          "route_name": "2",
+          "top": false,
+          "top_tries": 4,
+          "zone": true,
+          "zone_tries": 1,
+          "low_zone": null,
+          "points": 10.0,
+          "low_zone_tries": null,
+          "modified": "2025-05-26 00:08:13 +00:00",
+          "status": "locked"
+        },
+        {
+          "route_id": 16630,
+          "route_name": "3",
+          "top": false,
+          "top_tries": 7,
+          "zone": false,
+          "zone_tries": 7,
+          "low_zone": null,
+          "points": 0.0,
+          "low_zone_tries": null,
+          "modified": "2025-05-26 00:31:40 +00:00",
+          "status": "locked"
+        },
+        {
+          "route_id": 16631,
+          "route_name": "4",
+          "top": false,
+          "top_tries": 4,
+          "zone": true,
+          "zone_tries": 4,
+          "low_zone": null,
+          "points": 9.7,
+          "low_zone_tries": null,
+          "modified": "2025-05-26 00:34:18 +00:00",
+          "status": "locked"
+        }
+      ],
+      "combined_stages": null,
+      "active": false,
+      "under_appeal": false
+    }
+  ],
+  "startlist": [
+    {
+      "athlete_id": 1929,
+      "route_start_positions": [
+        {
+          "route_name": "1",
+          "route_id": 16628,
+          "position": 1
+        },
+        {
+          "route_name": "2",
+          "route_id": 16629,
+          "position": 5
+        },
+        {
+          "route_name": "3",
+          "route_id": 16630,
+          "position": 9
+        },
+        {
+          "route_name": "4",
+          "route_id": 16631,
+          "position": 13
+        }
+      ],
+      "name": "DUFFY Colin",
+      "firstname": "Colin",
+      "lastname": "DUFFY",
+      "bib": "152",
+      "country": "USA",
+      "flag_url": "https://d1n1qj9geboqnb.cloudfront.net/flags/USA.png",
+      "federation_id": 20
+    },
+    {
+      "athlete_id": 2307,
+      "route_start_positions": [
+        {
+          "route_name": "1",
+          "route_id": 16628,
+          "position": 2
+        },
+        {
+          "route_name": "2",
+          "route_id": 16629,
+          "position": 6
+        },
+        {
+          "route_name": "3",
+          "route_id": 16630,
+          "position": 10
+        },
+        {
+          "route_name": "4",
+          "route_id": 16631,
+          "position": 14
+        }
+      ],
+      "name": "NARASAKI Meichi",
+      "firstname": "Meichi",
+      "lastname": "NARASAKI",
+      "bib": "103",
+      "country": "JPN",
+      "flag_url": "https://d1n1qj9geboqnb.cloudfront.net/flags/JPN.png",
+      "federation_id": 25
+    },
+    {
+      "athlete_id": 2257,
+      "route_start_positions": [
+        {
+          "route_name": "1",
+          "route_id": 16628,
+          "position": 3
+        },
+        {
+          "route_name": "2",
+          "route_id": 16629,
+          "position": 7
+        },
+        {
+          "route_name": "3",
+          "route_id": 16630,
+          "position": 11
+        },
+        {
+          "route_name": "4",
+          "route_id": 16631,
+          "position": 15
+        }
+      ],
+      "name": "SUGIMOTO Rei",
+      "firstname": "Rei",
+      "lastname": "SUGIMOTO",
+      "bib": "113",
+      "country": "JPN",
+      "flag_url": "https://d1n1qj9geboqnb.cloudfront.net/flags/JPN.png",
+      "federation_id": 25
+    },
+    {
+      "athlete_id": 11871,
+      "route_start_positions": [
+        {
+          "route_name": "1",
+          "route_id": 16628,
+          "position": 4
+        },
+        {
+          "route_name": "2",
+          "route_id": 16629,
+          "position": 8
+        },
+        {
+          "route_name": "3",
+          "route_id": 16630,
+          "position": 12
+        },
+        {
+          "route_name": "4",
+          "route_id": 16631,
+          "position": 16
+        }
+      ],
+      "name": "AMAGASA Sohta",
+      "firstname": "Sohta",
+      "lastname": "AMAGASA",
+      "bib": "142",
+      "country": "JPN",
+      "flag_url": "https://d1n1qj9geboqnb.cloudfront.net/flags/JPN.png",
+      "federation_id": 25
+    },
+    {
+      "athlete_id": 2348,
+      "route_start_positions": [
+        {
+          "route_name": "1",
+          "route_id": 16628,
+          "position": 5
+        },
+        {
+          "route_name": "2",
+          "route_id": 16629,
+          "position": 9
+        },
+        {
+          "route_name": "3",
+          "route_id": 16630,
+          "position": 13
+        },
+        {
+          "route_name": "4",
+          "route_id": 16631,
+          "position": 17
+        }
+      ],
+      "name": "FUJIWAKI Yuji",
+      "firstname": "Yuji",
+      "lastname": "FUJIWAKI",
+      "bib": "145",
+      "country": "JPN",
+      "flag_url": "https://d1n1qj9geboqnb.cloudfront.net/flags/JPN.png",
+      "federation_id": 25
+    },
+    {
+      "athlete_id": 11675,
+      "route_start_positions": [
+        {
+          "route_name": "1",
+          "route_id": 16628,
+          "position": 6
+        },
+        {
+          "route_name": "2",
+          "route_id": 16629,
+          "position": 10
+        },
+        {
+          "route_name": "3",
+          "route_id": 16630,
+          "position": 14
+        },
+        {
+          "route_name": "4",
+          "route_id": 16631,
+          "position": 18
+        }
+      ],
+      "name": "SCHALCK Mejdi",
+      "firstname": "Mejdi",
+      "lastname": "SCHALCK",
+      "bib": "143",
+      "country": "FRA",
+      "flag_url": "https://d1n1qj9geboqnb.cloudfront.net/flags/FRA.png",
+      "federation_id": 10
+    },
+    {
+      "athlete_id": 2101,
+      "route_start_positions": [
+        {
+          "route_name": "1",
+          "route_id": 16628,
+          "position": 7
+        },
+        {
+          "route_name": "2",
+          "route_id": 16629,
+          "position": 11
+        },
+        {
+          "route_name": "3",
+          "route_id": 16630,
+          "position": 15
+        },
+        {
+          "route_name": "4",
+          "route_id": 16631,
+          "position": 19
+        }
+      ],
+      "name": "LEE Dohyun",
+      "firstname": "Dohyun",
+      "lastname": "LEE",
+      "bib": "141",
+      "country": "KOR",
+      "flag_url": "https://d1n1qj9geboqnb.cloudfront.net/flags/KOR.png",
+      "federation_id": 21
+    },
+    {
+      "athlete_id": 13040,
+      "route_start_positions": [
+        {
+          "route_name": "1",
+          "route_id": 16628,
+          "position": 8
+        },
+        {
+          "route_name": "2",
+          "route_id": 16629,
+          "position": 12
+        },
+        {
+          "route_name": "3",
+          "route_id": 16630,
+          "position": 16
+        },
+        {
+          "route_name": "4",
+          "route_id": 16631,
+          "position": 20
+        }
+      ],
+      "name": "ANRAKU Sorato",
+      "firstname": "Sorato",
+      "lastname": "ANRAKU",
+      "bib": "101",
+      "country": "JPN",
+      "flag_url": "https://d1n1qj9geboqnb.cloudfront.net/flags/JPN.png",
+      "federation_id": 25
+    }
+  ]
+}

@@ -1,0 +1,853 @@
+{
+  "event_tasks": [
+    "head of delegation",
+    "coach boulder",
+    "medical personnel"
+  ],
+  "team_officials": [
+    {
+      "athlete_id": 3209,
+      "firstname": "Andrea",
+      "lastname": "ROJAS",
+      "name": "ROJAS Andrea",
+      "gender": "female",
+      "federation": "Federacion Argentina de Ski Y Andinismo",
+      "federation_id": 41,
+      "country": "ARG",
+      "tasks": [
+        {
+          "name": "head of delegation",
+          "index": 0
+        },
+        {
+          "name": "coach boulder",
+          "index": 1
+        }
+      ]
+    },
+    {
+      "athlete_id": 13557,
+      "firstname": "Ruen-mae",
+      "lastname": "MACKENZIE",
+      "name": "MACKENZIE Ruen-Mae",
+      "gender": "female",
+      "federation": "Sport Climbing Australia",
+      "federation_id": 28,
+      "country": "AUS",
+      "tasks": [
+        {
+          "name": "coach boulder",
+          "index": 1
+        }
+      ]
+    },
+    {
+      "athlete_id": 15354,
+      "firstname": "Ian",
+      "lastname": "MELVIN",
+      "name": "MELVIN Ian",
+      "gender": "male",
+      "federation": "Sport Climbing Australia",
+      "federation_id": 28,
+      "country": "AUS",
+      "tasks": [
+        {
+          "name": "coach boulder",
+          "index": 1
+        },
+        {
+          "name": "head of delegation",
+          "index": 0
+        }
+      ]
+    },
+    {
+      "athlete_id": 1209,
+      "firstname": "Katharina",
+      "lastname": "SAURWEIN",
+      "name": "SAURWEIN Katharina",
+      "gender": "female",
+      "federation": "Kletterverband Österreich",
+      "federation_id": 16,
+      "country": "AUT",
+      "tasks": [
+        {
+          "name": "head of delegation",
+          "index": 0
+        }
+      ]
+    },
+    {
+      "athlete_id": 14232,
+      "firstname": "Matthias",
+      "lastname": "KAPL",
+      "name": "KAPL Matthias",
+      "gender": "male",
+      "federation": "Kletterverband Österreich",
+      "federation_id": 16,
+      "country": "AUT",
+      "tasks": [
+        {
+          "name": "medical personnel",
+          "index": 2
+        }
+      ]
+    },
+    {
+      "athlete_id": 13468,
+      "firstname": "Sander",
+      "lastname": "GUSTIN",
+      "name": "GUSTIN Sander",
+      "gender": "male",
+      "federation": "Climbing and Mountaineering Belgium",
+      "federation_id": 9,
+      "country": "BEL",
+      "tasks": [
+        {
+          "name": "medical personnel",
+          "index": 2
+        }
+      ]
+    },
+    {
+      "athlete_id": 378,
+      "firstname": "Marco",
+      "lastname": "JUBES",
+      "name": "JUBES Marco",
+      "gender": "male",
+      "federation": "Climbing and Mountaineering Belgium",
+      "federation_id": 9,
+      "country": "BEL",
+      "tasks": [
+        {
+          "name": "head of delegation",
+          "index": 0
+        }
+      ]
+    },
+    {
+      "athlete_id": 17041,
+      "firstname": "Palmer Keith",
+      "lastname": "LARSEN",
+      "name": "LARSEN Palmer Keith",
+      "gender": "male",
+      "federation": "Associação Brasileira de Escalada Esportiva",
+      "federation_id": 40,
+      "country": "BRA",
+      "tasks": [
+        {
+          "name": "head of delegation",
+          "index": 0
+        }
+      ]
+    },
+    {
+      "athlete_id": 3139,
+      "firstname": "Thais Makino",
+      "lastname": "SHIRAIWA",
+      "name": "SHIRAIWA Thais Makino",
+      "gender": "female",
+      "federation": "Associação Brasileira de Escalada Esportiva",
+      "federation_id": 40,
+      "country": "BRA",
+      "tasks": [
+        {
+          "name": "coach boulder",
+          "index": 1
+        }
+      ]
+    },
+    {
+      "athlete_id": 12920,
+      "firstname": "Vasil",
+      "lastname": "VASSILEV",
+      "name": "VASSILEV Vasil",
+      "gender": "male",
+      "federation": "Bulgarian Climbing and Mountaineering Federation",
+      "federation_id": 26,
+      "country": "BUL",
+      "tasks": [
+        {
+          "name": "coach boulder",
+          "index": 1
+        }
+      ]
+    },
+    {
+      "athlete_id": 2418,
+      "firstname": "Vasil",
+      "lastname": "KIROV",
+      "name": "KIROV Vasil",
+      "gender": "male",
+      "federation": "Bulgarian Climbing and Mountaineering Federation",
+      "federation_id": 26,
+      "country": "BUL",
+      "tasks": [
+        {
+          "name": "coach boulder",
+          "index": 1
+        }
+      ]
+    },
+    {
+      "athlete_id": 17001,
+      "firstname": "Arce",
+      "lastname": "JULIO",
+      "name": "JULIO Arce",
+      "gender": "male",
+      "federation": "Costa Rica Climbing Federation",
+      "federation_id": 109,
+      "country": "CRC",
+      "tasks": [
+        {
+          "name": "head of delegation",
+          "index": 0
+        }
+      ]
+    },
+    {
+      "athlete_id": 17004,
+      "firstname": "Irene",
+      "lastname": "ORLICH",
+      "name": "ORLICH Irene",
+      "gender": "female",
+      "federation": "Costa Rica Climbing Federation",
+      "federation_id": 109,
+      "country": "CRC",
+      "tasks": [
+        {
+          "name": "medical personnel",
+          "index": 2
+        }
+      ]
+    },
+    {
+      "athlete_id": 17002,
+      "firstname": "Paloma",
+      "lastname": "FILLOY",
+      "name": "FILLOY Paloma",
+      "gender": "female",
+      "federation": "Costa Rica Climbing Federation",
+      "federation_id": 109,
+      "country": "CRC",
+      "tasks": [
+        {
+          "name": "coach boulder",
+          "index": 1
+        }
+      ]
+    },
+    {
+      "athlete_id": 17005,
+      "firstname": "Andrew",
+      "lastname": "KAUFMAN",
+      "name": "KAUFMAN Andrew",
+      "gender": "male",
+      "federation": "Costa Rica Climbing Federation",
+      "federation_id": 109,
+      "country": "CRC",
+      "tasks": [
+        {
+          "name": "medical personnel",
+          "index": 2
+        }
+      ]
+    },
+    {
+      "athlete_id": 17003,
+      "firstname": "Stefano",
+      "lastname": "GIUSTINIANI",
+      "name": "GIUSTINIANI Stefano",
+      "gender": "male",
+      "federation": "Costa Rica Climbing Federation",
+      "federation_id": 109,
+      "country": "CRC",
+      "tasks": [
+        {
+          "name": "coach boulder",
+          "index": 1
+        }
+      ]
+    },
+    {
+      "athlete_id": 14583,
+      "firstname": "Kalle",
+      "lastname": "HEIKKINEN",
+      "name": "HEIKKINEN Kalle",
+      "gender": "male",
+      "federation": "Finnish Climbing Association",
+      "federation_id": 35,
+      "country": "FIN",
+      "tasks": [
+        {
+          "name": "coach boulder",
+          "index": 1
+        }
+      ]
+    },
+    {
+      "athlete_id": 597,
+      "firstname": "Juan",
+      "lastname": "ESCUDERO TOBOSO",
+      "name": "ESCUDERO TOBOSO Juan",
+      "gender": "male",
+      "federation": "Federation Française de la Montagne et de l'Escalade",
+      "federation_id": 10,
+      "country": "FRA",
+      "tasks": [
+        {
+          "name": "medical personnel",
+          "index": 2
+        }
+      ]
+    },
+    {
+      "athlete_id": 12375,
+      "firstname": "Victor",
+      "lastname": "LARZUL",
+      "name": "LARZUL Victor",
+      "gender": "male",
+      "federation": "Federation Française de la Montagne et de l'Escalade",
+      "federation_id": 10,
+      "country": "FRA",
+      "tasks": [
+        {
+          "name": "coach boulder",
+          "index": 1
+        }
+      ]
+    },
+    {
+      "athlete_id": 434,
+      "firstname": "Nicolas",
+      "lastname": "JANUEL",
+      "name": "JANUEL Nicolas",
+      "gender": "male",
+      "federation": "Federation Française de la Montagne et de l'Escalade",
+      "federation_id": 10,
+      "country": "FRA",
+      "tasks": [
+        {
+          "name": "head of delegation",
+          "index": 0
+        }
+      ]
+    },
+    {
+      "athlete_id": 12284,
+      "firstname": "Liam",
+      "lastname": "BRIDDON",
+      "name": "BRIDDON Liam",
+      "gender": "male",
+      "federation": "British Mountaineering Council",
+      "federation_id": 11,
+      "country": "GBR",
+      "tasks": [
+        {
+          "name": "head of delegation",
+          "index": 0
+        }
+      ]
+    },
+    {
+      "athlete_id": 641,
+      "firstname": "Rachel",
+      "lastname": "CARR",
+      "name": "CARR Rachel",
+      "gender": "female",
+      "federation": "British Mountaineering Council",
+      "federation_id": 11,
+      "country": "GBR",
+      "tasks": [
+        {
+          "name": "coach boulder",
+          "index": 1
+        }
+      ]
+    },
+    {
+      "athlete_id": 665,
+      "firstname": "Mark",
+      "lastname": "GLENNIE",
+      "name": "GLENNIE Mark",
+      "gender": "male",
+      "federation": "British Mountaineering Council",
+      "federation_id": 11,
+      "country": "GBR",
+      "tasks": [
+        {
+          "name": "coach boulder",
+          "index": 1
+        }
+      ]
+    },
+    {
+      "athlete_id": 14580,
+      "firstname": "Amy",
+      "lastname": "DR. FRUGÉ",
+      "name": "DR. FRUGÉ Amy",
+      "gender": "female",
+      "federation": "Deutscher Alpenverein",
+      "federation_id": 6,
+      "country": "GER",
+      "tasks": [
+        {
+          "name": "medical personnel",
+          "index": 2
+        }
+      ]
+    },
+    {
+      "athlete_id": 12457,
+      "firstname": "Ingo",
+      "lastname": "FILZWIESER",
+      "name": "FILZWIESER Ingo",
+      "gender": "male",
+      "federation": "Deutscher Alpenverein",
+      "federation_id": 6,
+      "country": "GER",
+      "tasks": [
+        {
+          "name": "head of delegation",
+          "index": 0
+        }
+      ]
+    },
+    {
+      "athlete_id": 13384,
+      "firstname": "Sagi",
+      "lastname": "DAMTI",
+      "name": "DAMTI Sagi",
+      "gender": "male",
+      "federation": "Deutscher Alpenverein",
+      "federation_id": 6,
+      "country": "GER",
+      "tasks": [
+        {
+          "name": "coach boulder",
+          "index": 1
+        }
+      ]
+    },
+    {
+      "athlete_id": 6027,
+      "firstname": "Yaniv",
+      "lastname": "HECHT",
+      "name": "HECHT Yaniv",
+      "gender": "male",
+      "federation": "Israel Climbing Association",
+      "federation_id": 60,
+      "country": "ISR",
+      "tasks": [
+        {
+          "name": "coach boulder",
+          "index": 1
+        }
+      ]
+    },
+    {
+      "athlete_id": 1040,
+      "firstname": "Riccardo",
+      "lastname": "TABARIN",
+      "name": "TABARIN Riccardo",
+      "gender": "male",
+      "federation": "Federazione Arrampicata Sportiva Italiana",
+      "federation_id": 13,
+      "country": "ITA",
+      "tasks": [
+        {
+          "name": "coach boulder",
+          "index": 1
+        }
+      ]
+    },
+    {
+      "athlete_id": 14749,
+      "firstname": "Filippo",
+      "lastname": "OLIVA",
+      "name": "OLIVA FILIPPO",
+      "gender": "male",
+      "federation": "Federazione Arrampicata Sportiva Italiana",
+      "federation_id": 13,
+      "country": "ITA",
+      "tasks": [
+        {
+          "name": "medical personnel",
+          "index": 2
+        }
+      ]
+    },
+    {
+      "athlete_id": 972,
+      "firstname": "Jean Pierre",
+      "lastname": "BOVO",
+      "name": "BOVO Jean Pierre",
+      "gender": "male",
+      "federation": "Federazione Arrampicata Sportiva Italiana",
+      "federation_id": 13,
+      "country": "ITA",
+      "tasks": [
+        {
+          "name": "head of delegation",
+          "index": 0
+        },
+        {
+          "name": "coach boulder",
+          "index": 1
+        }
+      ]
+    },
+    {
+      "athlete_id": 2389,
+      "firstname": "Takahide",
+      "lastname": "YAMAMOTO",
+      "name": "YAMAMOTO Takahide",
+      "gender": "male",
+      "federation": "Japan Mountaineering \u0026 Sport Climbing Association",
+      "federation_id": 25,
+      "country": "JPN",
+      "tasks": [
+        {
+          "name": "medical personnel",
+          "index": 2
+        }
+      ]
+    },
+    {
+      "athlete_id": 2293,
+      "firstname": "Benjamin",
+      "lastname": "HARTMANN",
+      "name": "HARTMANN Benjamin",
+      "gender": "male",
+      "federation": "Japan Mountaineering \u0026 Sport Climbing Association",
+      "federation_id": 25,
+      "country": "JPN",
+      "tasks": [
+        {
+          "name": "coach boulder",
+          "index": 1
+        }
+      ]
+    },
+    {
+      "athlete_id": 13685,
+      "firstname": "Hiroaki",
+      "lastname": "INOUE",
+      "name": "INOUE Hiroaki",
+      "gender": "male",
+      "federation": "Japan Mountaineering \u0026 Sport Climbing Association",
+      "federation_id": 25,
+      "country": "JPN",
+      "tasks": [
+        {
+          "name": "medical personnel",
+          "index": 2
+        }
+      ]
+    },
+    {
+      "athlete_id": 2292,
+      "firstname": "Hiroshi",
+      "lastname": "YASUI",
+      "name": "YASUI Hiroshi",
+      "gender": "male",
+      "federation": "Japan Mountaineering \u0026 Sport Climbing Association",
+      "federation_id": 25,
+      "country": "JPN",
+      "tasks": [
+        {
+          "name": "head of delegation",
+          "index": 0
+        }
+      ]
+    },
+    {
+      "athlete_id": 16346,
+      "firstname": "Seoyoon",
+      "lastname": "JOO",
+      "name": "JOO SEOYOON",
+      "gender": "female",
+      "federation": "Korea Alpine Federation",
+      "federation_id": 21,
+      "country": "KOR",
+      "tasks": [
+        {
+          "name": "medical personnel",
+          "index": 2
+        }
+      ]
+    },
+    {
+      "athlete_id": 2065,
+      "firstname": "Seongmin",
+      "lastname": "EOM",
+      "name": "EOM Seongmin",
+      "gender": "male",
+      "federation": "Korea Alpine Federation",
+      "federation_id": 21,
+      "country": "KOR",
+      "tasks": [
+        {
+          "name": "coach boulder",
+          "index": 1
+        }
+      ]
+    },
+    {
+      "athlete_id": 12736,
+      "firstname": "Morten",
+      "lastname": "TVEDT",
+      "name": "TVEDT Morten",
+      "gender": "male",
+      "federation": "The Norwegian Climbing Federation",
+      "federation_id": 39,
+      "country": "NOR",
+      "tasks": [
+        {
+          "name": "head of delegation",
+          "index": 0
+        }
+      ]
+    },
+    {
+      "athlete_id": 14686,
+      "firstname": "Andrei",
+      "lastname": "MOSLOC",
+      "name": "MOSLOC Andrei",
+      "gender": "male",
+      "federation": "Romanian Federation of Mountaineering and Climbing",
+      "federation_id": 33,
+      "country": "ROU",
+      "tasks": [
+        {
+          "name": "head of delegation",
+          "index": 0
+        }
+      ]
+    },
+    {
+      "athlete_id": 14725,
+      "firstname": "Sašo",
+      "lastname": "OŠTIR",
+      "name": "OŠTIR Sašo",
+      "gender": "male",
+      "federation": "Alpine Association of Slovenia",
+      "federation_id": 15,
+      "country": "SLO",
+      "tasks": [
+        {
+          "name": "medical personnel",
+          "index": 2
+        }
+      ]
+    },
+    {
+      "athlete_id": 1151,
+      "firstname": "Gorazd",
+      "lastname": "HREN",
+      "name": "HREN Gorazd",
+      "gender": "male",
+      "federation": "Alpine Association of Slovenia",
+      "federation_id": 15,
+      "country": "SLO",
+      "tasks": [
+        {
+          "name": "head of delegation",
+          "index": 0
+        }
+      ]
+    },
+    {
+      "athlete_id": 4260,
+      "firstname": "Sofya",
+      "lastname": "YOKOYAMA",
+      "name": "YOKOYAMA Sofya",
+      "gender": "female",
+      "federation": "Schweizer Alpen-Club SAC",
+      "federation_id": 8,
+      "country": "SUI",
+      "tasks": [
+        {
+          "name": "coach boulder",
+          "index": 1
+        }
+      ]
+    },
+    {
+      "athlete_id": 4283,
+      "firstname": "Julien",
+      "lastname": "CLÉMENCE",
+      "name": "CLÉMENCE Julien",
+      "gender": "male",
+      "federation": "Schweizer Alpen-Club SAC",
+      "federation_id": 8,
+      "country": "SUI",
+      "tasks": [
+        {
+          "name": "coach boulder",
+          "index": 1
+        }
+      ]
+    },
+    {
+      "athlete_id": 2759,
+      "firstname": "Tomas",
+      "lastname": "GREKSAK",
+      "name": "GREKSAK Tomas",
+      "gender": "male",
+      "federation": "Slovak Mountaineering Union JAMES",
+      "federation_id": 34,
+      "country": "SVK",
+      "tasks": [
+        {
+          "name": "head of delegation",
+          "index": 0
+        }
+      ]
+    },
+    {
+      "athlete_id": 14195,
+      "firstname": "Miriam",
+      "lastname": "BURŠÍKOVÁ",
+      "name": "BURŠÍKOVÁ Miriam",
+      "gender": "female",
+      "federation": "Slovak Mountaineering Union JAMES",
+      "federation_id": 34,
+      "country": "SVK",
+      "tasks": [
+        {
+          "name": "coach boulder",
+          "index": 1
+        }
+      ]
+    },
+    {
+      "athlete_id": 16995,
+      "firstname": "John Benson",
+      "lastname": "MILLER",
+      "name": "MILLER John Benson",
+      "gender": "male",
+      "federation": "Thailand Sport Climbing Association",
+      "federation_id": 59,
+      "country": "THA",
+      "tasks": [
+        {
+          "name": "coach boulder",
+          "index": 1
+        }
+      ]
+    },
+    {
+      "athlete_id": 13629,
+      "firstname": "Ariya",
+      "lastname": "INTRACHUPONGSE",
+      "name": "INTRACHUPONGSE Ariya",
+      "gender": "female",
+      "federation": "Thailand Sport Climbing Association",
+      "federation_id": 59,
+      "country": "THA",
+      "tasks": [
+        {
+          "name": "head of delegation",
+          "index": 0
+        }
+      ]
+    },
+    {
+      "athlete_id": 17033,
+      "firstname": "Matthew",
+      "lastname": "JONES",
+      "name": "JONES Matthew",
+      "gender": "male",
+      "federation": "Thailand Sport Climbing Association",
+      "federation_id": 59,
+      "country": "THA",
+      "tasks": [
+        {
+          "name": "coach boulder",
+          "index": 1
+        }
+      ]
+    },
+    {
+      "athlete_id": 13763,
+      "firstname": "Ayo",
+      "lastname": "SOPEJU",
+      "name": "SOPEJU Ayo",
+      "gender": "male",
+      "federation": "USA Climbing",
+      "federation_id": 20,
+      "country": "USA",
+      "tasks": [
+        {
+          "name": "coach boulder",
+          "index": 1
+        }
+      ]
+    },
+    {
+      "athlete_id": 1735,
+      "firstname": "Josh",
+      "lastname": "LARSON",
+      "name": "LARSON Josh",
+      "gender": "male",
+      "federation": "USA Climbing",
+      "federation_id": 20,
+      "country": "USA",
+      "tasks": [
+        {
+          "name": "head of delegation",
+          "index": 0
+        }
+      ]
+    },
+    {
+      "athlete_id": 1892,
+      "firstname": "Zack",
+      "lastname": "DICRISTINO",
+      "name": "DICRISTINO Zack",
+      "gender": "male",
+      "federation": "USA Climbing",
+      "federation_id": 20,
+      "country": "USA",
+      "tasks": [
+        {
+          "name": "medical personnel",
+          "index": 2
+        }
+      ]
+    },
+    {
+      "athlete_id": 15606,
+      "firstname": "Cindy",
+      "lastname": "ZINGLEMAN",
+      "name": "ZINGLEMAN Cindy",
+      "gender": "female",
+      "federation": "USA Climbing",
+      "federation_id": 20,
+      "country": "USA",
+      "tasks": [
+        {
+          "name": "medical personnel",
+          "index": 2
+        }
+      ]
+    },
+    {
+      "athlete_id": 13016,
+      "firstname": "Alvaro",
+      "lastname": "RANGEL",
+      "name": "RANGEL Alvaro",
+      "gender": "male",
+      "federation": "USA Climbing",
+      "federation_id": 20,
+      "country": "USA",
+      "tasks": [
+        {
+          "name": "coach boulder",
+          "index": 1
+        }
+      ]
+    }
+  ]
+}
