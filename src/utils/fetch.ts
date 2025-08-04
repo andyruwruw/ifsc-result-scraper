@@ -12,8 +12,6 @@ export const fetchPage = async (url: string): Promise<cheerio.CheerioAPI> => {
   try {
     const { data } = await axios.get(url);
 
-    console.log(data);
-
     return cheerio.load(data);
   } catch (error) {
     console.error(`Error fetching page: ${url}`, error);

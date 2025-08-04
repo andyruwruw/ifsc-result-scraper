@@ -13,6 +13,8 @@ export interface Athelete {
 
   gender: AtheleteGender;
 
+  pronouns: string;
+
   country: string;
 
   city: string;
@@ -25,15 +27,14 @@ export interface Athelete {
 
   instagram: string;
 
+  website: string;
+
+  youtube: string;
+
+  nickname: string;
+
   image: string;
+
+  story: string;
 }
 
-export interface Federation {
-  id: number;
-
-  name: string;
-
-  abbreviation: string;
-
-  href: string;
-}

@@ -1,0 +1,340 @@
+[
+  {
+    "dcat_id": 1,
+    "name": "LEAD Men",
+    "url": "/api/v1/cuwr/1",
+    "event_count": 13,
+    "ranking_name": "CUWR v4",
+    "ranking_id": 5,
+    "assigned_leagues": [
+      "World Cups and World Championships",
+      "IFSC Oceania Adults"
+    ]
+  },
+  {
+    "dcat_id": 2,
+    "name": "SPEED Men",
+    "url": "/api/v1/cuwr/2",
+    "event_count": 13,
+    "ranking_name": "CUWR v4",
+    "ranking_id": 5,
+    "assigned_leagues": [
+      "World Cups and World Championships",
+      "IFSC Oceania Adults"
+    ]
+  },
+  {
+    "dcat_id": 3,
+    "name": "BOULDER Men",
+    "url": "/api/v1/cuwr/3",
+    "event_count": 16,
+    "ranking_name": "CUWR v4",
+    "ranking_id": 5,
+    "assigned_leagues": [
+      "World Cups and World Championships",
+      "IFSC Oceania Adults"
+    ]
+  },
+  {
+    "dcat_id": 617,
+    "name": "BOULDER\u0026LEAD Men",
+    "url": "/api/v1/cuwr/617",
+    "event_count": 2,
+    "ranking_name": "CUWR v4",
+    "ranking_id": 5,
+    "assigned_leagues": [
+      "World Cups and World Championships",
+      "IFSC Oceania Adults"
+    ]
+  },
+  {
+    "dcat_id": 5,
+    "name": "LEAD Women",
+    "url": "/api/v1/cuwr/5",
+    "event_count": 13,
+    "ranking_name": "CUWR v4",
+    "ranking_id": 5,
+    "assigned_leagues": [
+      "World Cups and World Championships",
+      "IFSC Oceania Adults"
+    ]
+  },
+  {
+    "dcat_id": 6,
+    "name": "SPEED Women",
+    "url": "/api/v1/cuwr/6",
+    "event_count": 13,
+    "ranking_name": "CUWR v4",
+    "ranking_id": 5,
+    "assigned_leagues": [
+      "World Cups and World Championships",
+      "IFSC Oceania Adults"
+    ]
+  },
+  {
+    "dcat_id": 7,
+    "name": "BOULDER Women",
+    "url": "/api/v1/cuwr/7",
+    "event_count": 16,
+    "ranking_name": "CUWR v4",
+    "ranking_id": 5,
+    "assigned_leagues": [
+      "World Cups and World Championships",
+      "IFSC Oceania Adults"
+    ]
+  },
+  {
+    "dcat_id": 618,
+    "name": "BOULDER\u0026LEAD Women",
+    "url": "/api/v1/cuwr/618",
+    "event_count": 2,
+    "ranking_name": "CUWR v4",
+    "ranking_id": 5,
+    "assigned_leagues": [
+      "World Cups and World Championships",
+      "IFSC Oceania Adults"
+    ]
+  },
+  {
+    "dcat_id": 553,
+    "name": "LEAD Men AL1",
+    "url": "/api/v1/cuwr/553",
+    "event_count": 0,
+    "ranking_name": "Paraclimbing World Ranking",
+    "ranking_id": 6,
+    "assigned_leagues": [
+      "IFSC Paraclimbing"
+    ]
+  },
+  {
+    "dcat_id": 561,
+    "name": "LEAD Men AL2",
+    "url": "/api/v1/cuwr/561",
+    "event_count": 0,
+    "ranking_name": "Paraclimbing World Ranking",
+    "ranking_id": 6,
+    "assigned_leagues": [
+      "IFSC Paraclimbing"
+    ]
+  },
+  {
+    "dcat_id": 569,
+    "name": "LEAD Men AU1",
+    "url": "/api/v1/cuwr/569",
+    "event_count": 0,
+    "ranking_name": "Paraclimbing World Ranking",
+    "ranking_id": 6,
+    "assigned_leagues": [
+      "IFSC Paraclimbing"
+    ]
+  },
+  {
+    "dcat_id": 577,
+    "name": "LEAD Men AU2",
+    "url": "/api/v1/cuwr/577",
+    "event_count": 0,
+    "ranking_name": "Paraclimbing World Ranking",
+    "ranking_id": 6,
+    "assigned_leagues": [
+      "IFSC Paraclimbing"
+    ]
+  },
+  {
+    "dcat_id": 753,
+    "name": "LEAD Men AU3",
+    "url": "/api/v1/cuwr/753",
+    "event_count": 0,
+    "ranking_name": "Paraclimbing World Ranking",
+    "ranking_id": 6,
+    "assigned_leagues": [
+      "IFSC Paraclimbing"
+    ]
+  },
+  {
+    "dcat_id": 529,
+    "name": "LEAD Men B1",
+    "url": "/api/v1/cuwr/529",
+    "event_count": 0,
+    "ranking_name": "Paraclimbing World Ranking",
+    "ranking_id": 6,
+    "assigned_leagues": [
+      "IFSC Paraclimbing"
+    ]
+  },
+  {
+    "dcat_id": 533,
+    "name": "LEAD Men B2",
+    "url": "/api/v1/cuwr/533",
+    "event_count": 0,
+    "ranking_name": "Paraclimbing World Ranking",
+    "ranking_id": 6,
+    "assigned_leagues": [
+      "IFSC Paraclimbing"
+    ]
+  },
+  {
+    "dcat_id": 537,
+    "name": "LEAD Men B3",
+    "url": "/api/v1/cuwr/537",
+    "event_count": 0,
+    "ranking_name": "Paraclimbing World Ranking",
+    "ranking_id": 6,
+    "assigned_leagues": [
+      "IFSC Paraclimbing"
+    ]
+  },
+  {
+    "dcat_id": 585,
+    "name": "LEAD Men RP1",
+    "url": "/api/v1/cuwr/585",
+    "event_count": 0,
+    "ranking_name": "Paraclimbing World Ranking",
+    "ranking_id": 6,
+    "assigned_leagues": [
+      "IFSC Paraclimbing"
+    ]
+  },
+  {
+    "dcat_id": 589,
+    "name": "LEAD Men RP2",
+    "url": "/api/v1/cuwr/589",
+    "event_count": 0,
+    "ranking_name": "Paraclimbing World Ranking",
+    "ranking_id": 6,
+    "assigned_leagues": [
+      "IFSC Paraclimbing"
+    ]
+  },
+  {
+    "dcat_id": 593,
+    "name": "LEAD Men RP3",
+    "url": "/api/v1/cuwr/593",
+    "event_count": 0,
+    "ranking_name": "Paraclimbing World Ranking",
+    "ranking_id": 6,
+    "assigned_leagues": [
+      "IFSC Paraclimbing"
+    ]
+  },
+  {
+    "dcat_id": 557,
+    "name": "LEAD Women AL1",
+    "url": "/api/v1/cuwr/557",
+    "event_count": 0,
+    "ranking_name": "Paraclimbing World Ranking",
+    "ranking_id": 6,
+    "assigned_leagues": [
+      "IFSC Paraclimbing"
+    ]
+  },
+  {
+    "dcat_id": 565,
+    "name": "LEAD Women AL2",
+    "url": "/api/v1/cuwr/565",
+    "event_count": 0,
+    "ranking_name": "Paraclimbing World Ranking",
+    "ranking_id": 6,
+    "assigned_leagues": [
+      "IFSC Paraclimbing"
+    ]
+  },
+  {
+    "dcat_id": 573,
+    "name": "LEAD Women AU1",
+    "url": "/api/v1/cuwr/573",
+    "event_count": 0,
+    "ranking_name": "Paraclimbing World Ranking",
+    "ranking_id": 6,
+    "assigned_leagues": [
+      "IFSC Paraclimbing"
+    ]
+  },
+  {
+    "dcat_id": 581,
+    "name": "LEAD Women AU2",
+    "url": "/api/v1/cuwr/581",
+    "event_count": 0,
+    "ranking_name": "Paraclimbing World Ranking",
+    "ranking_id": 6,
+    "assigned_leagues": [
+      "IFSC Paraclimbing"
+    ]
+  },
+  {
+    "dcat_id": 758,
+    "name": "LEAD Women AU3",
+    "url": "/api/v1/cuwr/758",
+    "event_count": 0,
+    "ranking_name": "Paraclimbing World Ranking",
+    "ranking_id": 6,
+    "assigned_leagues": [
+      "IFSC Paraclimbing"
+    ]
+  },
+  {
+    "dcat_id": 541,
+    "name": "LEAD Women B1",
+    "url": "/api/v1/cuwr/541",
+    "event_count": 0,
+    "ranking_name": "Paraclimbing World Ranking",
+    "ranking_id": 6,
+    "assigned_leagues": [
+      "IFSC Paraclimbing"
+    ]
+  },
+  {
+    "dcat_id": 545,
+    "name": "LEAD Women B2",
+    "url": "/api/v1/cuwr/545",
+    "event_count": 0,
+    "ranking_name": "Paraclimbing World Ranking",
+    "ranking_id": 6,
+    "assigned_leagues": [
+      "IFSC Paraclimbing"
+    ]
+  },
+  {
+    "dcat_id": 549,
+    "name": "LEAD Women B3",
+    "url": "/api/v1/cuwr/549",
+    "event_count": 0,
+    "ranking_name": "Paraclimbing World Ranking",
+    "ranking_id": 6,
+    "assigned_leagues": [
+      "IFSC Paraclimbing"
+    ]
+  },
+  {
+    "dcat_id": 597,
+    "name": "LEAD Women RP1",
+    "url": "/api/v1/cuwr/597",
+    "event_count": 0,
+    "ranking_name": "Paraclimbing World Ranking",
+    "ranking_id": 6,
+    "assigned_leagues": [
+      "IFSC Paraclimbing"
+    ]
+  },
+  {
+    "dcat_id": 601,
+    "name": "LEAD Women RP2",
+    "url": "/api/v1/cuwr/601",
+    "event_count": 0,
+    "ranking_name": "Paraclimbing World Ranking",
+    "ranking_id": 6,
+    "assigned_leagues": [
+      "IFSC Paraclimbing"
+    ]
+  },
+  {
+    "dcat_id": 605,
+    "name": "LEAD Women RP3",
+    "url": "/api/v1/cuwr/605",
+    "event_count": 0,
+    "ranking_name": "Paraclimbing World Ranking",
+    "ranking_id": 6,
+    "assigned_leagues": [
+      "IFSC Paraclimbing"
+    ]
+  }
+]
