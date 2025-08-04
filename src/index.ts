@@ -16,7 +16,7 @@ const main = async () => {
   const list = await competitionListService.fetch();
 
   for (let i = 0; i < 1; i += 1) {
-    console.log(`Competition #${i + 1}: ID ${list[i].split('/').pop()}`);
+    console.log(`Competition #${i + 1}: ID ${list[i].split('/')[list[i].split('/').length - 2]}`);
 
     // Get the competition data
     const competitionService = new CompetitionService();
