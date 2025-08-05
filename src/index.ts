@@ -1,47 +1,51 @@
 // Local Imports
-import { CompetitionListService } from './services/competition-list.service';
-import { CompetitionService } from './services/competition.service';
+import { EventListService } from './services/event-list.service';
+import { EventService } from './services/event.service';
 import { DomainProvider } from './domain';
 import { CsvWriter } from './utils/csv-writer';
 import { Browser } from './utils/browser';
 import wait from './utils/wait';
+import { IfscResultScraper } from './ifsc-result-scraper';
+
 /**
  * Main entry point for the data reader.
  */
 const main = async () => {
-  console.log('Data Reader is starting...');
+  console.log('-- Starting up IFSC Data Reader --');
 
-  await Browser.launch();
+  const scraper = new IfscResultScraper();
 
-  // Get the competition list
-  const competitionListService = new CompetitionListService();
-  const list = await competitionListService.fetch();
+  await scraper.initialize();
+  await scraper.start();
 
-  const competitions = [];
+  // await Browser.launch();
 
-  for (let i = 0; i < list.length; i += 1) {
-    console.log(`Competition #${i + 1}: ID ${list[i].split('/')[list[i].split('/').length - 2]}`);
+  // // Get the event list
+  // const eventListService = new EventListService();
+  // const list = await eventListService.fetch();
+  
+  // const eventService = new EventService();
 
-    // Get the competition data
-    const competitionService = new CompetitionService();
-    const competitionData = await competitionService.fetch(list[i]);
+  // for (let i = 0; i < list.length; i += 1) {
+  //   // Get the event data
+  //   const eventData = await eventService.fetch(list[i]);
 
-    if (competitionData) {
-      competitions.push(competitionData);
-    }
+  //   console.log(`Event ${i + 1}/${list.length}: ${list[i].split('/')[list[i].split('/').length - 2]} ${eventData.name}`);
 
-    // This doesn't need to be fast right?
-    wait(1000 + Math.random() * 5000);
-  }
+  //   DomainProvider.EventRepository.save(eventData);
 
-  await Browser.close();
+  //   // This doesn't need to be fast right?
+  //   wait(1000 + Math.random() * 5000);
+  // }
 
-  await CsvWriter.export(
-    `./export/competitions.csv`,
-    competitions,
-  );
+  // await Browser.close();
 
-  console.log('Data reader is completed.');
+  // await CsvWriter.export(
+  //   `./export/events.csv`,
+  //   await DomainProvider.EventRepository.find({}),
+  // );
+
+  console.log('-- IFSC Data Reader is completed --');
 }
 
 main();

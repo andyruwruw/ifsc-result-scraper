@@ -1,7 +1,7 @@
 export interface EventRouteResults {
   route: number;
 
-  athelete: number;
+  athlete: number;
 
   top: boolean;
 

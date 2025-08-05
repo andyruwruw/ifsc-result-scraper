@@ -1,7 +1,7 @@
 export interface EventResults {
   round: number;
 
-  athelete: number;
+  athlete: number;
 
   bib: string;
 

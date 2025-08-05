@@ -1,6 +1,6 @@
-export type AtheleteGender = 'male' | 'female' | 'non-binary' | 'other';
+export type AthleteGender = 'male' | 'female' | 'non-binary' | 'other';
 
-export interface Athelete {
+export interface Athlete {
   id: number;
 
   href: string;
@@ -11,7 +11,7 @@ export interface Athelete {
 
   birthday: string;
 
-  gender: AtheleteGender;
+  gender: AthleteGender;
 
   pronouns: string;
 

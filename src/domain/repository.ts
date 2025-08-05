@@ -106,11 +106,11 @@ export class Repository<T> {
   ): Promise<T[]> {
     const items = this._filter(query);
 
-    if (offset !== undefined) {
+    if (offset !== undefined && offset > 0) {
       items.splice(0, offset);
     }
 
-    if (limit !== undefined) {
+    if (limit !== undefined && limit > 0) {
       items.splice(limit);
     }
 

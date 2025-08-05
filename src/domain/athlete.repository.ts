@@ -2,10 +2,10 @@
 import { Repository } from './repository';
 
 // Types
-import { Athelete } from './athelete.entity';
+import { Athlete } from './athlete.entity';
 
 /**
  * Repository class for managing athletes.
  */
-export class AtheleteRepository extends Repository<Athelete> {
+export class AthleteRepository extends Repository<Athlete> {
 }

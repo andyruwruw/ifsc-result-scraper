@@ -1,59 +1,5 @@
 export type EventType = 'classic';
 
-export interface IfscEventPublicInformation {
-  organizerName: string | null;
-
-  organizerUrl: string | null;
-
-  venueName: string | null;
-
-  description: string | null;
-}
-
-export interface IfscEventRound {
-  id: number;
-
-  name: string;
-}
-
-export interface IfscEventDiscipline {
-  id: number;
-
-  kind: string;
-
-  settings: any | null;
-}
-
-export type IfscEventDisciplineKind = 'lead' | 'boulder' | 'speed' | 'para';
-
-export type IfscEventDCatStatus = 'finished';
-
-export interface IfscEventDcatCategoryRound {
-  cateogory_round_id: number;
-}
-
-export interface IfscEventDcat {
-  id: number;
-
-  event: number;
-
-  name: string;
-
-  discipline: IfscEventDisciplineKind;
-
-  category: number;
-
-  categoryName: string;
-
-  status: IfscEventDCatStatus;
-
-  statusAsOf: string;
-
-  rankingAsOf: string;
-
-  results: string;
-}
-
 export interface Event {
   id: number;
 
@@ -64,8 +10,6 @@ export interface Event {
   type: EventType;
 
   league: number;
-
-  rounds: IfscEventRound[];
 
   leagueSeason: number;
 
@@ -81,9 +25,15 @@ export interface Event {
 
   timezone: string;
 
-  publicInformation: IfscEventPublicInformation
-
   location: string;
+
+  organizer: string;
+
+  organizerUrl: string;
+
+  venue: string;
+
+  venueDescription: string;
 
   cupName: string;
 
@@ -93,15 +43,55 @@ export interface Event {
 
   seriesImage: string;
 
-  cover: string | null;
+  cover: string;
 
-  infosheet: string | null;
+  infosheet: string;
 
-  additionalInfoUrl: string | null;
+  additionalInfoUrl: string;
 
   paraclimbing: boolean;
 
   selfJudged: boolean;
+}
 
-  disciplines: IfscEventDiscipline[];
+export interface EventListItemDiscipline {
+  id: number;
+
+  kind: string;
+
+  event: number;
+
+  createdAt: string;
+
+  updatedAt: string;
+}
+
+export interface EventListItem {
+  id: string;
+
+  href: string;
+
+  name: string;
+
+  location: string;
+
+  country: string;
+  
+  leagueSeason: number;
+
+  cupName: string;
+
+  cupId: number | null;
+
+  starts: string;
+
+  ends: string;
+
+  localStart: string;
+
+  localEnd: string;
+
+  timezone: string;
+
+  disciplines: EventListItemDiscipline[];
 }

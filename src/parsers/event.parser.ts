@@ -3,11 +3,12 @@ import { Parser } from './parser';
 
 // Types
 import { Event } from '../domain/event.entity';
+import { EventResultsService } from '../services/event-results.service';
 
 /**
- * Parser class for extracting data from competition pages.
+ * Parser class for extracting data from event pages.
  */
-export class CompetitionParser extends Parser<Event> {
+export class EventParser extends Parser<Event> {
   /**
    * Parses the HTML page and returns structured data.
    *
@@ -28,6 +29,23 @@ export class CompetitionParser extends Parser<Event> {
     });
 
     const data = (await dataPromise) as Record<string, any>;
+
+    if ('dcats' in data) {
+      for (let i = 0; i < data.dcats.length; i += 1) {
+        const dcat = data.dcats[i];
+
+        for (let j = 0; j < dcat.category_rounds.length; j += 1) {
+          const categoryRound = dcat.category_rounds[j];
+
+          if (categoryRound.category_round_id) {
+            EventResultsService.enqueue(
+              data.id,
+              categoryRound.category_round_id,
+            );
+          }
+        }
+      }
+    }
 
     return {
       id: data.id,
@@ -53,9 +71,9 @@ export class CompetitionParser extends Parser<Event> {
       seriesImage: data.series_logo || '',
       cover: data.cover || '',
       infosheet: data.infosheet_url || '',
-      additionalInformation: data.additional_info_url || '',
+      additionalInfoUrl: data.additional_info_url || '',
       paraclimbing: data.paraclimbing || false,
       selfJudged: data.self_judged || false,
-    } as unknown as Event;
+    } as Event;
   }
 }
